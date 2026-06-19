@@ -1,0 +1,61 @@
+name: Compile Geosite Dat
+
+on:
+  workflow_run:
+    workflows: ["Update Filters"]
+    types:
+      - completed
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Compile Dat Files
+        run: |
+          python geosite_builder.py
+
+      - name: Deploy to Release Branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Move compiled binaries to a safe directory outside the repo before switching branches
+          mkdir -p ../temp_build
+          cp rules/adblockgeosite.dat ../temp_build/
+          cp rules/adblockgeositelite.dat ../temp_build/
+          
+          # Fetch all branches to ensure we can switch, then orphan or checkout release branch
+          git fetch origin
+          git checkout --orphan release || git checkout release
+          
+          # Remove all source files in the new branch to keep it clean (binaries-only)
+          git rm -rf . || true
+          
+          # Move binaries back into the repository root
+          mv ../temp_build/adblockgeosite.dat .
+          mv ../temp_build/adblockgeositelite.dat .
+          
+          # Create a descriptive README for the release branch
+          echo "# Dat Releases" > README.md
+          echo "This branch contains the automatically generated v2ray/xray-core compatible geosite dat files." >> README.md
+          echo "" >> README.md
+          echo "- [adblockgeosite.dat](adblockgeosite.dat) (Contains ADBLOCK and ADBLOCK-UNBLOCK categories)" >> README.md
+          echo "- [adblockgeositelite.dat](adblockgeositelite.dat) (Contains ADBLOCK (Lite) and ADBLOCK-UNBLOCK (Lite) categories)" >> README.md
+          
+          git add adblockgeosite.dat adblockgeositelite.dat README.md
+          git commit -m "Update dat files at $(date)"
+          git push origin release --force
