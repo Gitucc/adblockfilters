@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260626184259
-! Last modified: 2026/06/26 18:42:59
-! Blocked domains: 4799
+! Version: 20260627012854
+! Last modified: 2026/06/27 01:28:54
+! Blocked domains: 4774
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -658,7 +658,6 @@ collect.babybus.com
 tjinit-event.babybus.com
 tjinit-global-register.babybus.com
 qmlog.baertt.com
-bagbazaar.shop
 events.baicizhan.com
 a.baidinet.com
 union.baidu.cn
@@ -806,7 +805,6 @@ j.baminw.cn
 baminw.com.cn
 ad.bandao.cn
 midinfo.baofeng.com
-bargainza.shop
 baycode.cn
 bayescom.com
 bbbazlp.cn
@@ -856,7 +854,6 @@ yyapp-mlog.bigda.com
 go.bigo.tv
 bigwww.com
 bihaipack.com
-bikeboutique.shop
 dataflow.biliapi.com
 ali-web-player-tracker.biliapi.net
 hw-v2-web-player-tracker.biliapi.net
@@ -886,7 +883,6 @@ vstat.borderlessbd.com
 noyvyv.bosonshop.com
 boyidianqi.com.cn
 bpuvuun0xg.com
-brightstyle.shop
 bs2site.at
 bsbaswq.cn
 bsccdn.net
@@ -1352,10 +1348,8 @@ jb.ecar168.cn
 ecudsc.cn
 domain-server-dashboard.edgeone.app
 mail-service.edgeone.app
-moj-panel.edgeone.app
 steady-red-t01otpocmp.edgeone.app
 tms21.edgeone.app
-c0-m9w0489dfgychjk-bsh3cs6t2s.edgeone.dev
 efhjfjdhdksdhlfsfsvjvj-dprhmd8pvnvd.edgeone.dev
 gdgdcjkklfsgclfgcg-dph9klajknan.edgeone.dev
 gdghhfhdnhhfdgnnxcbnddddvn-dpl0cm801n86.edgeone.dev
@@ -1504,9 +1498,7 @@ stat.funshion.com
 stat.funshion.net
 furniglade.com
 furnishvista.com
-furnmuse.com
 trk.futureelectronics.cn
-futurepick.shop
 fwlrv.cn
 fwmbjrl.cn
 dmym.fwol.cn
@@ -2004,7 +1996,6 @@ ijinshan.com
 daima.ijq.tv
 lm.ijq.tv
 ikujy.cn
-static.ilclock.com
 ilkwork.com
 smetrics.illumina.com.cn
 metrics.ilovematlab.cn
@@ -2756,7 +2747,6 @@ ninebox.cn
 down.nishuoa.com
 nkscdn.com
 nlzyp.cn
-nmlastcallluxury.com
 web.novogene.com
 a.nowscore.com
 z.nowscore.com
@@ -2902,7 +2892,6 @@ i.popincdn.com
 poqwua.cn
 fp-it-acc.portal101.cn
 webtrack.pospal.cn
-powertrend.shop
 log.cs.pp.cn
 patriot.cs.pp.cn
 server.m.pp.cn
@@ -3156,7 +3145,6 @@ yun-hl.3g.qq.com
 dns.weixin.qq.com.cn
 wxaintpcos.wxqcloud.qq.com.cn
 qq2tdd0xx.com
-down.qqfarmer.com.cn
 sdk-ab-config.qquanquan.com
 tracelog-debug.qquanquan.com
 f.qstatic.com
@@ -3218,7 +3206,6 @@ v9-reading-ad.qznovelvod.com
 v95-se-zjwztc-reading-ad.qznovelvod.com
 v96-reading-ad.qznovelvod.com
 v96-sz-daily-reading-ad.qznovelvod.com
-r-golsport.club
 rabuagc.cn
 luaqxb.rainso.com
 bespoke-analytics.razerapi.com
@@ -3241,11 +3228,9 @@ jebe.renren.com
 renzhen8.cn
 revelove.shop
 api.revenuads.com
-revolution-sklep.club
 revolutionrace-pl.shop
 info.revvity.cn
 track.msadcenter.rfjq.com
-rgol-sklep.club
 rgpxop.cn
 richh.cn
 ad.richmob.cn
@@ -3320,8 +3305,6 @@ adrs.sdo.com
 dwtracking.sdo.com
 reportsk.web.sdo.com
 analytics.apps.seabroadnet.com
-securemsg.fj.cn
-securemsg.hi.cn
 selectwave.shop
 sellfox.com
 senbiaojita.com
@@ -3448,7 +3431,6 @@ raffle-entry.info.smart.com
 smetrics.future.smart.com
 sms.info.smart.com
 smucdn.com
-smyk-sklep.club
 smykplz.shop
 errortracking.snapp.site
 sensors.snappea.com
@@ -3548,7 +3530,6 @@ srqxnvjdd.com
 data.ssports.com
 show.ssports.com
 3.ssqzj.com
-stalcopl.shop
 stargame.com
 staticfile.net
 staticfile.org
@@ -3558,7 +3539,6 @@ stg8.com
 stgowan.com
 app-analysislog.sto.cn
 stockalio.shop
-stolp.shop
 store-pl.shop
 strauss-db.shop
 strauss-market.shop
@@ -3598,7 +3578,6 @@ taboola.com.cn
 mxana.tacool.com
 tagmanager.cn
 tagtic.cn
-en.taichuan.com
 takjttz.cn
 talk99.cn
 talkingdata.com
@@ -3610,7 +3589,6 @@ pco-sm-log.tantanapp.com
 report.tantanapp.com
 sc-report.tantanapp.com
 seiya.tantanapp.com
-tantis-sklep.club
 tanv.com
 click.tanx.com
 cms.tanx.com
@@ -3809,7 +3787,6 @@ tnc3-bjlgy.toutiaoapi.com
 toutiaopage.com
 tovbus.cn
 tovppl.cn
-toytemple.shop
 tpaxot.cn
 trackingio.com
 tradplus.cn
@@ -3942,11 +3919,9 @@ ads.v3mh.com
 www.v61.com
 v84tz11w7.com
 va3yq7si6w.com
-valemora.shop
 vamaker.com
 collect.vans.com.cn
 log.vcgame.cn
-verifyhub.nx.cn
 g.analytics.versa-ai.com
 veryboys.com
 vhgu5ivtew.com
