@@ -2,8 +2,8 @@
 #!desc=每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 #!homepage=https://github.com/217heidai/adblockfilters
 #!source=https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockshadowrocketlite.sgmodule
-#!version=20260628005433
-#!updated=2026/06/28 00:54:33
+#!version=20260628101013
+#!updated=2026/06/28 10:10:13
 
 [Rule]
 DOMAIN-SUFFIX,kwflvcdn.000dn.com,REJECT-DROP
@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,0575bbs.com,REJECT-DROP
 DOMAIN-SUFFIX,0597kk.com,REJECT-DROP
 DOMAIN-SUFFIX,080999.cn,REJECT-DROP
 DOMAIN-SUFFIX,087tqb.cn,REJECT-DROP
-DOMAIN-SUFFIX,0941.org,REJECT-DROP
 DOMAIN-SUFFIX,0dy3evz6x.com,REJECT-DROP
 DOMAIN-SUFFIX,0otmh22aj2.com,REJECT-DROP
 DOMAIN-SUFFIX,0wk6gdkg8r.com,REJECT-DROP
@@ -981,7 +980,6 @@ DOMAIN-SUFFIX,media.cheshi.com,REJECT-DROP
 DOMAIN-SUFFIX,pv.cheshi.com,REJECT-DROP
 DOMAIN-SUFFIX,qc1.cheshipin.com,REJECT-DROP
 DOMAIN-SUFFIX,z1.chezhuzhinan.com,REJECT-DROP
-DOMAIN-SUFFIX,t6.china-xian.com,REJECT-DROP
 DOMAIN-SUFFIX,log.china.cn,REJECT-DROP
 DOMAIN-SUFFIX,ads.china.com,REJECT-DROP
 DOMAIN-SUFFIX,dvs.china.com,REJECT-DROP
