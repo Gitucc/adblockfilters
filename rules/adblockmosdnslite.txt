@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20260630020321
-# Last modified: 2026/06/30 02:03:21
-# Blocked domains: 4804
+# Version: 20260630100452
+# Last modified: 2026/06/30 10:04:52
+# Blocked domains: 4798
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -1504,8 +1504,6 @@ pv.funshion.com
 stat.funshion.com
 vs.funshion.com
 stat.funshion.net
-furniglade.com
-furnishvista.com
 trk.futureelectronics.cn
 fwmbjrl.cn
 dmym.fwol.cn
@@ -1948,7 +1946,6 @@ va.huya.com
 ylog.huya.com
 xuexi.hydcd.com
 zuowen.hydcd.com
-hypecenter.shop
 hypers.com
 hypers.com.cn
 hytzp.cn
@@ -3316,7 +3313,6 @@ dwtracking.sdo.com
 reportsk.web.sdo.com
 analytics.apps.seabroadnet.com
 trace.seeyouyima.com
-selectwave.shop
 sellfox.com
 senbiaojita.com
 sensorsdata.cn
@@ -3338,7 +3334,6 @@ statichf.shihuocdn.cn
 shilian168.cn
 1.shopit.cn
 shoppingbox.com
-shopvelocity.shop
 shuiguo.com
 umini.shujupie.com
 ad.shunchangzhixing.com
@@ -4619,7 +4614,6 @@ yunxish.com
 yvdb.cn
 yw800.com.cn
 ywkkmze.cn
-123.ywxww.net
 adsclick.yx.js.cn
 qiniuyunxz.yxflzs.com
 ad.a.yximgs.com
