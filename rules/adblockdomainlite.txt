@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260716092212
-! Last modified: 2026/07/16 09:22:12
-! Blocked domains: 5033
+! Version: 20260716175423
+! Last modified: 2026/07/16 17:54:23
+! Blocked domains: 5066
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -212,7 +212,8 @@ ios-pclog.3u.com
 40017.cn
 4a9.cn
 a.4aqq.com
-4fizjo-poland.shop
+4fizjosup.shop
+4hubb49.com
 4nfesm3itf.com
 4pn.cn
 4uitrrt700.com
@@ -420,6 +421,7 @@ analytics.afirstsoft.cn
 app.aflink.com
 data-reporting.agora.io
 logservice.agora.io
+logservice-asia.agora.io
 logservice-rtm.agora.io
 report-america.agora.io
 report-asia.agora.io
@@ -427,6 +429,8 @@ report-edge.agora.io
 report-europe.agora.io
 report-north-america.agora.io
 report-oversea.agora.io
+report-us.agora.io
+report-us2.agora.io
 statscollector-1.agora.io
 statscollector-1-asia.agora.io
 statscollector-1-europe.agora.io
@@ -541,7 +545,6 @@ dmg-dd.oss-accelerate.aliyuncs.com
 dongtukj.oss-cn-hongkong.aliyuncs.com
 dreemdmbabys.oss-cn-guangzhou.aliyuncs.com
 ep2x3kiawg-sdk.rum.aliyuncs.com
-f8ds5tkidk-sdk.rum.aliyuncs.com
 facai383.oss-cn-guangzhou.aliyuncs.com
 first-hufu.oss-cn-shanghai.aliyuncs.com
 free-cdn.oss-cn-shanghai.aliyuncs.com
@@ -831,6 +834,8 @@ bd-s.baixing.net
 script-bd.baixing.net
 a1.bajiu.cn
 a.bake818.cn
+baltic-pipe-pl.com
+baltic-pipe.net
 h.baminw.cn
 j.baminw.cn
 baminw.com.cn
@@ -868,7 +873,6 @@ s.bdstatic.com
 sofire.bdstatic.com
 su.bdstatic.com
 zz.bdstatic.com
-ads-i3.xhscdn.com.a.bdydns.com
 smetrics.beatsbydre.com
 smetrics.beatsbydre.com.cn
 beizi.biz
@@ -902,6 +906,7 @@ mcdn.bilivideo.com
 ai.bioon.com
 carstat.bitauto.com
 log.bitauto.com
+bitradex-polska.com
 img11.biyan8.com
 sdkapiv2.bizport.cn
 bj5iodzgyi.com
@@ -920,6 +925,7 @@ vstat.borderlessbd.com
 noyvyv.bosonshop.com
 boyidianqi.com.cn
 bpuvuun0xg.com
+bravonitek-pl.com
 brubeck-pl.shop
 brubeck-sports.shop
 brubecksports.shop
@@ -1009,6 +1015,7 @@ quan-event-tracking.log-global.aliyuncs.com.w.cdngslb.com
 sgtm.dhgate.com.cdngtm.com
 httpdns.c.cdnhwc2.com
 httpdns1.cc.cdnhwc5.com
+p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 ad.cdnjm.cn
 syh-imp.cdnjtzy.com
 cdnmaster.cn
@@ -1081,6 +1088,7 @@ cityhuitech.com
 sysdk.cl2009.com
 www.claiks.com
 clarins.com.cn
+claz.com.cn
 log-api.cli.im
 bd1.click.com.cn
 clicki.cn
@@ -1338,6 +1346,7 @@ ap.dongqiudi.com
 sensors-log.dongqiudi.com
 stat.dongqiudi.com
 dopa.com
+dorvanek-pl.com
 monitor-web.dotfashion.cn
 doubleclick-cn.net
 doubleclick.net
@@ -1431,6 +1440,8 @@ b73223085-49c6-4dca-a2f1-4722014079bf-dpcj8stbzfif.edgeone.dev
 b73223085-49c6-4dca-a2f1-4722014079fb-dpi4fgipupcs.edgeone.dev
 b74364238-d49c-4f21-a234-d47e9697ee92-dpowf5bnj9al.edgeone.dev
 blanked.edgeone.dev
+bvafrgmentumioter-dpun22ih62e8.edgeone.dev
+cas-microsoft.edgeone.dev
 copyright-case-review.edgeone.dev
 cpwehwhhhdsjddjkdfhesh-dps076qx66zp.edgeone.dev
 f40914238-3da7-4de7-8dee-307e6692cfb8.edgeone.dev
@@ -1441,6 +1452,7 @@ intellectual-property-appeal-dp16ue7mh0wc.edgeone.dev
 intellectual-property-review-dp8cm75v8j31.edgeone.dev
 meta-transparency-appeal-form-471ed0d914a1.edgeone.dev
 officedeskego-dp8bsedoxuio.edgeone.dev
+ready-to-g0u3yt-dp10u3ka993x.edgeone.dev
 reloader-dpffdavrss4p.edgeone.dev
 supreme-lavender-t9nd7q0w.edgeone.dev
 tapin.edgeone.dev
@@ -1504,6 +1516,7 @@ clickm.fang.com
 clickn.fang.com
 countpvn.light.fang.com
 mshow.fang.com
+www.fanwish.cn
 fanyi100.com.cn
 fanzhuang.net.cn
 fastapi.net
@@ -1616,6 +1629,7 @@ click.ganji.com
 ganjituiguang.ganji.com
 sta.ganji.com
 tralog.ganji.com
+static.gaomaer.cn
 gaoshouyou.com
 images8.gaotie.cn
 garden-home.shop
@@ -1662,7 +1676,6 @@ auth.api.gitv.tv
 doh.ptqy.gitv.tv
 liveats-vod.video.ptqy.gitv.tv
 msg.ptqy.gitv.tv
-openapi.vip.ptqy.gitv.tv
 ota.ptqy.gitv.tv
 policy.video.ptqy.gitv.tv
 puma-api.ptqy.gitv.tv
@@ -1826,6 +1839,7 @@ img1.hblds.com
 hbqabbg.cn
 hbzhenquan.cn
 hcbmq.cn
+heavly1.com
 hechaocheng.cn
 heheshield.com
 heima8.com
@@ -1987,10 +2001,12 @@ homla.cfd
 homla.club
 homla.cyou
 homla.fashion
+homla.help
 homla.icu
 homla.ink
 homladom.homes
 homladom.shop
+homlamake.shop
 homlas.homes
 om.hotels.cn
 ad.house365.com
@@ -3079,7 +3095,9 @@ pmensrl.cn
 pmvlwjy.cn
 dluat.pokerbros.net
 i.pokerbros.net
+polunexapro-pl.com
 polyfill-js.cn
+polzentraai-pl.com
 i.popincdn.com
 poqwua.cn
 fp-it-acc.portal101.cn
@@ -3099,6 +3117,7 @@ prdohgp.cn
 prlioxb.cn
 proewildfire.cn
 info.protiviti.com.cn
+przyrost-pl.com
 dm.pstatp.com
 pb3.pstatp.com
 sf1-ttcdn-tos.pstatp.com
@@ -3159,6 +3178,7 @@ stats.qiumibao.com
 webstat.qiumibao.com
 m.qiuwu.net
 qiuxl11.cn
+qivzorun-pl.com
 qiyegongqiu1.qiyegongqiu.com
 meta.video.qiyi.com
 msg.video.qiyi.com
@@ -3396,6 +3416,7 @@ v5-se-sjy-daily-reading-ad.qznovelvod.com
 v6-daily-reading-ad.qznovelvod.com
 v6-reading-ad.qznovelvod.com
 v9-reading-ad.qznovelvod.com
+v95-aw-reading-ad.qznovelvod.com
 v95-se-zjwztc-reading-ad.qznovelvod.com
 v95-zjjx2tc-reading-ad.qznovelvod.com
 v96-reading-ad.qznovelvod.com
@@ -3501,6 +3522,7 @@ dwtracking.sdo.com
 reportsk.web.sdo.com
 analytics.apps.seabroadnet.com
 sellfox.com
+selvarytm-pl.com
 senbiaojita.com
 sensorsdata.cn
 seordl.cn
@@ -3545,6 +3567,7 @@ sa.sina.cn
 sax.sina.cn
 sdkapp.mobile.sina.cn
 sdkclick.mobile.sina.cn
+statistic.cj.sina.cn
 trends.mobile.sina.cn
 u1.img.mobile.sina.cn
 wbapp.mobile.sina.cn
@@ -3644,6 +3667,7 @@ log.snssdk.com
 log-hl.snssdk.com
 log-lq.snssdk.com
 mcs.snssdk.com
+mercury-sdk.snssdk.com
 mon.snssdk.com
 open.snssdk.com
 pangolin.snssdk.com
@@ -3906,10 +3930,17 @@ apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
 beacon.sparta.mig.tencent-cloud.net
 trace.zhiyan.tencent-cloud.net
+android.bugly.tencent.com
+beacon.tencent.com
 galileotelemetry.tencent.com
+ios.bugly.tencent.com
 log.tpns.gz2.tencent.com
+log.tpns.hk.tencent.com
+log.tpns.sh.tencent.com
 sensors.cloud.tencent.com
 stat.tpns.gz2.tencent.com
+stat.tpns.hk.tencent.com
+stat.tpns.sh.tencent.com
 tpns.tencent.com
 tpns.sgp.tencent.com
 tpstelemetry.tencent.com
@@ -4235,6 +4266,7 @@ cname-in-bom01-nginxpool03.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
 co-romsp-unifyconfig.vivoglobal.com
 co-st-sl.vivoglobal.com
+co-timesync.vivoglobal.com
 co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
 de-gdpr-err-up.vivoglobal.com
@@ -4322,7 +4354,6 @@ ru-vcode-or.vivoglobal.com
 sg-cfg-stsdk.vivoglobal.com
 stsdk.vivoglobal.com
 tr-domaincfg.vivoglobal.com
-tr-err-up.vivoglobal.com
 tr-onrt-stsdk.vivoglobal.com
 tr-ort-stsdk.vivoglobal.com
 tr-p.vivoglobal.com
@@ -4550,6 +4581,7 @@ cdn.xianliao.me
 xianshangzixun.com
 xianshangzixun.net
 xianzhice.com
+xiaobaixitong.com
 xiaodongrui.com
 adx.xiaodutv.com
 nsclickvideo.xiaodutv.com
@@ -4938,6 +4970,7 @@ u.zhugeapi.net
 zgsdk.zhugeio.com
 fdfda.zhuzhai.com
 ziaja-pl.shop
+ziajabeatu.shop
 ziajacom.shop
 ziajamarket.shop
 ziajasklep.club
