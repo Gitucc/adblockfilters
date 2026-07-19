@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20260719092321
-# Last modified: 2026/07/19 09:23:21
-# Blocked domains: 5061
+# Version: 20260719174248
+# Last modified: 2026/07/19 17:42:48
+# Blocked domains: 5096
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -71,7 +71,6 @@ countly.mail.163.com
 crash.163.com
 crashlytics.163.com
 du.163.com
-e-p4p.163.com
 fp-upload.dun.163.com
 g.163.com
 gb.corp.163.com
@@ -216,10 +215,16 @@ a.4aqq.com
 4fizjo-poland.shop
 4fizjo.club
 4fizjocome.shop
+4fizjofb.shop
+4fizjofitness.shop
 4fizjopl.shop
 4fizjos.shop
+4fizjosp.shop
 4fizjosports.shop
 4fizjosup.shop
+4fizjoutdoor.shop
+4fizsale.shop
+4fizstore.shop
 4nfesm3itf.com
 4pn.cn
 4uitrrt700.com
@@ -246,6 +251,7 @@ ad.51wnl.com
 51yes.com
 game.51yund.com
 52aoteman.com
+52kuwang.cn
 5y9nfpes.52pk.com
 t-adx.52qumao.com
 adm.52swine.com
@@ -465,6 +471,7 @@ hk-datareceiver.aki-game.net
 jp-datareceiver.aki-game.net
 us-datareceiver.aki-game.net
 ako.cc
+akordfinzera-pl.com
 smetrics.alfalaval.cn
 dsp.ali213.net
 web.ali213.net
@@ -900,6 +907,7 @@ hw-v2-web-player-tracker.biliapi.net
 data.bilibili.com
 interface.bilibili.com
 miniapp.bilibili.com
+tracker.chat.bilibili.com
 line1-log.biligame.net
 line3-adscore-api.biligame.net
 httpdns.bilivideo.com
@@ -1059,7 +1067,6 @@ rankhit.china.com
 sssvd.china.com
 union.china.com.cn
 chinaapper.com
-feedbackstorage.blob.core.chinacloudapi.cn
 pcmactivity.chinacloudsites.cn
 same.chinadaily.com.cn
 sdkoptedge.chinanetcenter.com
@@ -1147,7 +1154,6 @@ log-eap-in.coloros.com
 log-eap-sg.coloros.com
 moa-upload-online.coloros.com
 smartcard.apps.coloros.com
-wangsu-smetrics.redhat.com.edgekey.net
 trk.compair.com.cn
 strack.concur.cn
 cu-cn-north00001.gala.convection.cn
@@ -1233,7 +1239,6 @@ console.data4.net
 gate.datacaciques.com
 pv.datacaciques.com
 datamaster.com.cn
-matomo.datasanalytics.com
 jc1.dayfund.com.cn
 bun1.dayi.org.cn
 images.dayoo.com
@@ -1307,6 +1312,7 @@ detailroi.com
 api.dewmobile.net
 dexinyi.cn
 dg186.cn
+dgrj.com.cn
 d.dgzj.com
 dh5t3pyb6r.com
 d1.dhgate.com
@@ -1435,6 +1441,7 @@ ecudsc.cn
 dimupdate.edgeone.app
 modeel-dpuxqwbcglha.edgeone.app
 tms21.edgeone.app
+digitalsolutions360-dpouvkf7wkw5.edgeone.cool
 0whw23nd-dpb9te1dacqs.edgeone.dev
 b73223085-49c6-4dca-a2f1-4722014079bf.edgeone.dev
 b73223085-49c6-4dca-a2f1-4722014079bf-dpcj8stbzfif.edgeone.dev
@@ -1443,8 +1450,10 @@ b74364238-d49c-4f21-a234-d47e9697ee92-dpowf5bnj9al.edgeone.dev
 blanked.edgeone.dev
 bvafrgmentumioter-dpun22ih62e8.edgeone.dev
 cas-microsoft.edgeone.dev
+cautious-parakeet-dp8m7ealq3k4.edgeone.dev
 copyright-case-review.edgeone.dev
 cpwehwhhhdsjddjkdfhesh-dps076qx66zp.edgeone.dev
+educational-blush-ooupnjp2.edgeone.dev
 f40914238-3da7-4de7-8dee-307e6692cfb8.edgeone.dev
 ggkhhfhhfhflhjdcxcvbthg-dpfmbose3uxq.edgeone.dev
 hdggdhjdhjdgdjjjgcjggjgj-dpt5xisw7bfs.edgeone.dev
@@ -1454,6 +1463,7 @@ meta-transparency-appeal-form-471ed0d914a1.edgeone.dev
 ready-to-g0u3yt-dp10u3ka993x.edgeone.dev
 reloader-dpffdavrss4p.edgeone.dev
 supreme-lavender-t9nd7q0w.edgeone.dev
+tapin.edgeone.dev
 tdrdwhxxgjzhztwxtxsf-dp9ctcz1v8gi.edgeone.dev
 troubleshoot-ad-account-issues.edgeone.dev
 uefa46-dpimi9v6dp2i.edgeone.dev
@@ -1577,7 +1587,10 @@ metrics.ford.com
 smetrics.ford.com
 smetrics.sandbox.ford.com
 forestseasons.com.cn
+forfizjo.shop
+forfizjopl.shop
 fotao9.com
+fourfizjo.shop
 frontier100-toutiao-lf.fqnovel.com
 log0-applog-lf.fqnovel.com
 log3-applog-lf.fqnovel.com
@@ -1609,6 +1622,7 @@ fx455rrt4b.com
 dms.fx678.com
 a.fxltsbl.com
 fy14.cn
+fyvexlab-fin.net
 g15wt3ci68.com
 g4z8712756.com
 g5xu1dslr6.com
@@ -1675,6 +1689,7 @@ auth.api.gitv.tv
 doh.ptqy.gitv.tv
 liveats-vod.video.ptqy.gitv.tv
 msg.ptqy.gitv.tv
+openapi.vip.ptqy.gitv.tv
 ota.ptqy.gitv.tv
 policy.video.ptqy.gitv.tv
 puma-api.ptqy.gitv.tv
@@ -1684,6 +1699,7 @@ static.ptqy.gitv.tv
 time.video.ptqy.gitv.tv
 50m.gkcyc.com
 gl0r6d2uyy.com
+glaz-kapitonis.net
 media.globalsign.com
 seal.globalsign.com
 africa.edm.globalsources.com
@@ -1720,10 +1736,12 @@ goalpinus.shop
 g.sst.godaddy.com
 godloveme.cn
 godunns.shop
+gofizjo.shop
 goforandroid.com
 gojunkclean.cn
 gokutahya.shop
 prom.gome.com.cn
+gonaoko.shop
 gongxifc.com
 google-analytics-cn.com
 google-analytics.com
@@ -1751,6 +1769,7 @@ googletagmanager.com
 googletagservices-cn.com
 googletraveladservices.com
 googlevads-cn.com
+goreima.shop
 gostalcos.shop
 gostats.cn
 kad.gotokeep.com
@@ -1805,6 +1824,7 @@ gym-glamour.shop
 gym-glamours.shop
 gym-glamoursklep.club
 gym-glamourspl.club
+gymsports.homes
 gymyogapl.shop
 gz-data.com
 gzfzcj.cn
@@ -1990,7 +2010,7 @@ hnol.net
 metrics.hollisterco.cn
 home-you.click
 home-you.club
-log.homestyler.com
+home-you.ink
 homeyous.shop
 homla-sklep.club
 homla.cfd
@@ -2000,10 +2020,14 @@ homla.fashion
 homla.help
 homla.icu
 homla.ink
+homla.wiki
 homladom.homes
 homladom.shop
+homlafan.shop
 homlamake.shop
 homlas.homes
+homsale.shop
+homstore.shop
 om.hotels.cn
 ad.house365.com
 adadmin.house365.com
@@ -2020,6 +2044,7 @@ sdk-os-static.hoyoverse.com
 sentry.eks.hoyoverse.com
 sg-public-data-api.hoyoverse.com
 ys-log-upload-os.hoyoverse.com
+hoza-platownia-ai.com
 ecommhpi.ext.hp.com
 met2.hp.com
 telemetry.pod1.prod.avatar.ext.hp.com
@@ -2306,6 +2331,7 @@ api.jietuhb.com
 jiezoiq.cn
 jiguang.cn
 ad.open.api.jihuoniao.com
+ad.report.jihuoniao.com
 target.ads.jihuoniao.com
 jikewan.com
 jikklfexh.com
@@ -2903,6 +2929,7 @@ n4d3ev3m1.com
 n69.com
 nalook.com
 fp.nanrenwo.net
+naok-pl.shop
 nasimobi.com
 dl.natgo.cn
 tr.email.nauticexpo.com
@@ -3206,6 +3233,7 @@ adstextview.qq.com
 adsview.qq.com
 adsview2.qq.com
 adver.qq.com
+advert-prod.hyrz.qq.com
 aegis.qq.com
 analy.qq.com
 analytics.map.qq.com
@@ -3213,6 +3241,7 @@ apikey.map.qq.com
 appcfg.v.qq.com
 applog.reader.qq.com
 appsupport.qq.com
+as.weixin.qq.com
 beacon.qq.com
 beacon.cdn.qq.com
 beaconcdn.qq.com
@@ -3511,6 +3540,7 @@ adrs.sdo.com
 dwtracking.sdo.com
 reportsk.web.sdo.com
 analytics.apps.seabroadnet.com
+trace.seeyouyima.com
 sellfox.com
 selvarytm-pl.com
 senbiaojita.com
@@ -3961,7 +3991,6 @@ info.thermoscientific.cn
 sstats.thermoscientific.cn
 thinkingdata.cn
 trail.thomsonreuters.cn
-ad.thsi.cn
 tracking.mail.ti.com.cn
 tiandi.com
 tianjimedia.com
@@ -4314,6 +4343,7 @@ in-vcode-or.vivoglobal.com
 in-vpushonrt-stsdk.vivoglobal.com
 in-vpushort-stsdk.vivoglobal.com
 kz-onrt-stsdk.vivoglobal.com
+kz-ort-stsdk.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 mx-cota.vivoglobal.com
 mx-domaincfg.vivoglobal.com
@@ -4402,6 +4432,7 @@ vpsgu.cn
 vrbrothers.com
 vrr.name
 vrrm.cn
+n.vs108.com
 vungle.cn
 bu1.vvvdj.com
 vwe5pjt0jq.com
@@ -4414,7 +4445,7 @@ w3cfba6ufr.com
 w8.com.cn
 w97nv5ibv4.com
 tongdun-fingerprint.walmartmobile.cn
-wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
+walz.cn
 medad.med.wanfangdata.com.cn
 mlog.wangsu.com
 analytics.wanmei.com
@@ -4431,6 +4462,7 @@ adsc.wasu.tv
 xjkugh.waterdropfilter.com
 ggw.watertu.com
 bd.watu.cn
+wawozfinseraai.com
 phputils.wc-os.com
 manage.wdfans.cn
 wdp5rczwlp.com
@@ -4481,6 +4513,7 @@ winads.cn
 winbaicai.com
 hoverfly.winchdesign.cn
 ad.winrar.com.cn
+wisport-pl.shop
 analytics.wiwide.com
 wiyun.com
 wj8i1rlp2b.com
@@ -4577,7 +4610,6 @@ cdn.xianliao.me
 xianshangzixun.com
 xianshangzixun.net
 xianzhice.com
-xiaobaixitong.com
 xiaodongrui.com
 adx.xiaodutv.com
 nsclickvideo.xiaodutv.com
@@ -4708,6 +4740,7 @@ xundupdf.com
 ad.xunkids.com
 adsp.xunlei.com
 advertpay-vip-ssl.xunlei.com
+advertpay.vip.xunlei.com
 analytics-union.xunlei.com
 kkpgv2.xunlei.com
 soa-vip-ssl.xunlei.com
@@ -4849,6 +4882,7 @@ yoyi.tv
 analysis.yozocloud.cn
 yrnv.cn
 yrqwnc.cn
+ad-material.ys7.com
 log.ys7.com
 ysjwj.com
 ysont.cn
@@ -4917,6 +4951,7 @@ p3.zbjimg.com
 xue.zbyw.cn
 log.zcool.com.cn
 zegarkirepliki.pl
+zelamtron-pl.com
 api-analytics.zepp.com
 api-analytics-cn3.zepp.com
 api-analytics-de.zepp.com
