@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260724092543
-# Last modified: 2026/07/24 09:25:43
-# Blocked domains: 5093
+# Version: 20260724180541
+# Last modified: 2026/07/24 18:05:41
+# Blocked domains: 5103
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -286,6 +286,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	v16.56.com
 0.0.0.0	www.56.com
 0.0.0.0	3.5646.cn
+0.0.0.0	dl.1003b.56a.com
 0.0.0.0	56fba.cn
 0.0.0.0	57573zubo36833.com
 0.0.0.0	brandshow.58.com
@@ -1004,6 +1005,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	appres.camera360.com
 0.0.0.0	stratus.campaign-image.com.cn
 0.0.0.0	zc1.campaign-view.com.cn
+0.0.0.0	canard-gov.com
 0.0.0.0	count.candou.com
 0.0.0.0	telemetry.canva.cn
 0.0.0.0	caomeixz7.xyz
@@ -1359,6 +1361,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	zhihu-web-analytics.zhihu.com.eo.dnse0.com
 0.0.0.0	metrics-picture.dreport.meituan.net.eo.dnse1.com
 0.0.0.0	tracking.ksztone.com.eo.dnse2.com
+0.0.0.0	ads-i1.xhscdn.com.cdn.dnsv1.com
 0.0.0.0	beacon.cdn.qq.com.cdn.dnsv1.com
 0.0.0.0	dnyzbp.cn
 0.0.0.0	do-global.com
@@ -1490,6 +1493,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tdrdwhxxgjzhztwxtxsf-dp9ctcz1v8gi.edgeone.dev
 0.0.0.0	troubleshoot-ad-account-issues.edgeone.dev
 0.0.0.0	uefa46-dpimi9v6dp2i.edgeone.dev
+0.0.0.0	w6r46g0hb-dpv3acpgp8ta.edgeone.dev
 0.0.0.0	y87f6s34a2qw-dp3fy8azkrz8.edgeone.dev
 0.0.0.0	eexlgyn.cn
 0.0.0.0	eeyy.com
@@ -1573,6 +1577,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	img.ferlie.net
 0.0.0.0	ks.ferlytc.com
 0.0.0.0	21.fh21static.com
+0.0.0.0	fhitagd.cn
 0.0.0.0	fighterboks.shop
 0.0.0.0	fighteres.shop
 0.0.0.0	fighterspor.shop
@@ -2356,6 +2361,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.jietuhb.com
 0.0.0.0	jiezoiq.cn
 0.0.0.0	jiguang.cn
+0.0.0.0	ad.open.api.jihuoniao.com
+0.0.0.0	ad.report.jihuoniao.com
 0.0.0.0	target.ads.jihuoniao.com
 0.0.0.0	jikewan.com
 0.0.0.0	wuliao.jingyanben.com
@@ -3121,6 +3128,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	pitbullsport.club
 0.0.0.0	pitbullsports.club
 0.0.0.0	pitbullwestcoast.shop
+0.0.0.0	stat2.pixpin.cn
 0.0.0.0	pl53l7tyw.com
 0.0.0.0	placidocn.com
 0.0.0.0	load.tbyvvwvv.plasmatreatment.cn
@@ -3552,6 +3560,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dwtracking.sdo.com
 0.0.0.0	reportsk.web.sdo.com
 0.0.0.0	analytics.apps.seabroadnet.com
+0.0.0.0	trace.seeyouyima.com
 0.0.0.0	sellfox.com
 0.0.0.0	selvarytm-pl.com
 0.0.0.0	senbiaojita.com
@@ -3775,6 +3784,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tongji.home.soufun.com
 0.0.0.0	ad-r.soulapp.cn
 0.0.0.0	roi.soulapp.cn
+0.0.0.0	soul-ad.soulapp.cn
 0.0.0.0	sgg.southcn.com
 0.0.0.0	cod.southmoney.com
 0.0.0.0	srbzw.cn
@@ -3889,7 +3899,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ae-alimelog.taobao.com
 0.0.0.0	agoodm.m.taobao.com
 0.0.0.0	ai.m.taobao.com
-0.0.0.0	alimelog.taobao.com
 0.0.0.0	amdcopen.m.taobao.com
 0.0.0.0	audid-api.taobao.com
 0.0.0.0	audid-api-sg.taobao.com
@@ -4988,6 +4997,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	zhflodsix.cn
 0.0.0.0	zhidian3g.cn
 0.0.0.0	pv.zhiding.cn
+0.0.0.0	zhigao5191.com
 0.0.0.0	adstatic.zhihu.com
 0.0.0.0	crash2.zhihu.com
 0.0.0.0	event.zhihu.com
