@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260806091939
-# Last modified: 2026/08/06 09:19:39
-# Blocked domains: 5040
+# Version: 20260806182429
+# Last modified: 2026/08/06 18:24:29
+# Blocked domains: 5042
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -1038,7 +1038,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sgtm.dhgate.com.cdngtm.com
 0.0.0.0	httpdns.c.cdnhwc2.com
 0.0.0.0	httpdns1.cc.cdnhwc5.com
-0.0.0.0	p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 0.0.0.0	ad.cdnjm.cn
 0.0.0.0	syh-imp.cdnjtzy.com
 0.0.0.0	cdnmaster.cn
@@ -1458,6 +1457,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	webmail-myaccount-secure-micrsoftnotifications-dpob324t4jqd.zh-cn.edgeone.cool
 0.0.0.0	00bfd200-dpnb2uqcmx3g.edgeone.dev
 0.0.0.0	05gdfi007-dpm2gawaoxpl.edgeone.dev
+0.0.0.0	098yjuio-dpwxvxwxcuwy.edgeone.dev
 0.0.0.0	0whw23nd-dpb9te1dacqs.edgeone.dev
 0.0.0.0	alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev
 0.0.0.0	awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev
@@ -1520,6 +1520,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	drovs.excelliance.cn
 0.0.0.0	excsyrv.cn
 0.0.0.0	exevcl.cn
+0.0.0.0	exrwl.com
 0.0.0.0	ad.exyws.org
 0.0.0.0	veepai-device-log.eye4.cn
 0.0.0.0	eyp7uowejx.com
@@ -1566,10 +1567,12 @@ ff02::3	ip6-allhosts
 0.0.0.0	ks.ferlytc.com
 0.0.0.0	21.fh21static.com
 0.0.0.0	fhitagd.cn
+0.0.0.0	fighter-shop.shop
 0.0.0.0	fighterboks.shop
 0.0.0.0	fighteres.shop
 0.0.0.0	fighterspor.shop
 0.0.0.0	fightersport.shop
+0.0.0.0	filei.top
 0.0.0.0	fileshider.com
 0.0.0.0	a1.firefoxchina.cn
 0.0.0.0	fiu07050kl.com
@@ -2013,7 +2016,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	home-you.click
 0.0.0.0	home-you.club
 0.0.0.0	home-you.ink
-0.0.0.0	log.homestyler.com
 0.0.0.0	homeyous.shop
 0.0.0.0	homla-sklep.club
 0.0.0.0	homla.cfd
@@ -2186,7 +2188,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	metrics.ilovematlab.cn
 0.0.0.0	smetrics.ilovematlab.cn
 0.0.0.0	imageter.com
-0.0.0.0	imediacodec.com
 0.0.0.0	img001.com
 0.0.0.0	tj.img4399.com
 0.0.0.0	imlb2c.com
@@ -2621,7 +2622,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	track.libii.cn
 0.0.0.0	lichunxiao.cn
 0.0.0.0	liebaovip.com
-0.0.0.0	lingd.cn
 0.0.0.0	ads.linkedin.cn
 0.0.0.0	linkhaitao.com
 0.0.0.0	litchiads.com
@@ -2922,6 +2922,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	analytics.myshoptago.com
 0.0.0.0	ggs.myzaker.com
 0.0.0.0	aries.mzres.com
+0.0.0.0	mzxl.org.cn
 0.0.0.0	n4d3ev3m1.com
 0.0.0.0	n69.com
 0.0.0.0	nalook.com
@@ -3103,6 +3104,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	bdx.playnext.cn
 0.0.0.0	pmensrl.cn
 0.0.0.0	pmvlwjy.cn
+0.0.0.0	1.pncdn.cn
+0.0.0.0	100.pncdn.cn
 0.0.0.0	podstcrednex-ai.com
 0.0.0.0	dluat.pokerbros.net
 0.0.0.0	i.pokerbros.net
@@ -3417,6 +3420,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	msgv6.qy.net
 0.0.0.0	ad.qyer.com
 0.0.0.0	hades.qyer.com
+0.0.0.0	qypaizhuo.com
 0.0.0.0	u1.qyxxpd.com
 0.0.0.0	v11-reading-ad.qznovelvod.com
 0.0.0.0	v13-reading-ad.qznovelvod.com
@@ -3847,7 +3851,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ae-alimelog.taobao.com
 0.0.0.0	agoodm.m.taobao.com
 0.0.0.0	ai.m.taobao.com
-0.0.0.0	alimelog.taobao.com
 0.0.0.0	amdcopen.m.taobao.com
 0.0.0.0	audid-api.taobao.com
 0.0.0.0	audid-api-sg.taobao.com
@@ -4558,12 +4561,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	ads-i10.xhscdn.com
 0.0.0.0	ads-i2.xhscdn.com
 0.0.0.0	ads-i3.xhscdn.com
-0.0.0.0	ads-i8.xhscdn.com
 0.0.0.0	ads-img-al.xhscdn.com
 0.0.0.0	ads-img-bak.xhscdn.com
 0.0.0.0	ads-img-qc.xhscdn.com
-0.0.0.0	ads-splash-i1.xhscdn.com
-0.0.0.0	ads-splash-i2.xhscdn.com
+0.0.0.0	ads-leona-s1.xhscdn.com
 0.0.0.0	ads-video-al.xhscdn.com
 0.0.0.0	ads-video-qc.xhscdn.com
 0.0.0.0	ads-vp5.xhscdn.com
@@ -4946,6 +4947,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sugar.zhihu.com
 0.0.0.0	zhihu-web-analytics.zhihu.com
 0.0.0.0	collector2c.zhihuishu.com
+0.0.0.0	www.zhikey.com
 0.0.0.0	ads.zhinengxiyifang.cn
 0.0.0.0	logapi.zhipin.com
 0.0.0.0	logapi-and.zhipin.com
