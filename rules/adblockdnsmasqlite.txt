@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260808162608
-# Last modified: 2026/08/08 16:26:08
-# Blocked domains: 4969
+# Version: 20260809001830
+# Last modified: 2026/08/09 00:18:30
+# Blocked domains: 4965
 #
 local=/kwflvcdn.000dn.com/
 local=/img.0279.net/
@@ -539,7 +539,6 @@ local=/dmg-dd.oss-accelerate.aliyuncs.com/
 local=/dongtukj.oss-cn-hongkong.aliyuncs.com/
 local=/dreemdmbabys.oss-cn-guangzhou.aliyuncs.com/
 local=/ep2x3kiawg-sdk.rum.aliyuncs.com/
-local=/f8ds5tkidk-sdk.rum.aliyuncs.com/
 local=/facai383.oss-cn-guangzhou.aliyuncs.com/
 local=/first-hufu.oss-cn-shanghai.aliyuncs.com/
 local=/free-cdn.oss-cn-shanghai.aliyuncs.com/
@@ -3126,7 +3125,6 @@ local=/qijpaih.cn/
 local=/roibest-report-sdk.qiliangjia.com/
 local=/up.qingdaonews.com/
 local=/bdcode.qinglue.com/
-local=/qingsj.cn/
 local=/ad.qingting.fm/
 local=/ad-cdn.qingting.fm/
 local=/adlaunch.qingting.fm/
@@ -4188,7 +4186,6 @@ local=/cname-in-bom01-nginxpool03.vivoglobal.com/
 local=/cname-sin01-stsdk09.vivoglobal.com/
 local=/co-romsp-unifyconfig.vivoglobal.com/
 local=/co-st-sl.vivoglobal.com/
-local=/co-timesync.vivoglobal.com/
 local=/co-vcode-api.vivoglobal.com/
 local=/co-vcode-od.vivoglobal.com/
 local=/de-gdpr-err-up.vivoglobal.com/
@@ -4548,7 +4545,6 @@ local=/stats.music.xiaomi.com/
 local=/storeconfig.mistat.intl.xiaomi.com/
 local=/sys.tv.india.xiaomi.com/
 local=/t1.a.market.xiaomi.com/
-local=/t17.market.xiaomi.com/
 local=/tz.sec.xiaomi.com/
 local=/video.market.xiaomi.com/
 local=/api.device.xiaomi.net/
