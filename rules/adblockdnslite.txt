@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260815083233
-! Last modified: 2026/08/15 08:32:33
-! Blocked domains: 4983
+! Version: 20260815161410
+! Last modified: 2026/08/15 16:14:10
+! Blocked domains: 4996
 ! unBlocked domains: 15
 !
 ||kwflvcdn.000dn.com^
@@ -433,8 +433,11 @@
 ||statscollector-1-south-america.agora.io^
 ||webcollector-rtm.agora.io^
 ||ahov1.top^
+||ai-fiversity.com^
 ||ai-nexork.com^
+||ai-polarisx.com^
 ||ai-proinvest-polska.com^
+||aifiversity.com^
 ||brc.aigrammar.net^
 ||brc2.aigrammar.net^
 ||atiws.aipai.com^
@@ -620,6 +623,7 @@
 ||arpun.com^
 ||aspwg.cn^
 ||www.assoc-amazon.cn^
+||dark-brook-fd40.astotgpqlekgiky.workers.dev^
 ||asyn.cn^
 ||aiseet.aa.atianqi.com^
 ||ac.atpanel.com^
@@ -827,6 +831,7 @@
 ||baminw.com.cn^
 ||ad.bandao.cn^
 ||midinfo.baofeng.com^
+||a.baomihua.com^
 ||djs.baomihua.com^
 ||resource.baomihua.com^
 ||baycode.cn^
@@ -957,7 +962,6 @@
 ||zc1.campaign-view.com.cn^
 ||canard-gov.com^
 ||count.candou.com^
-||telemetry.canva.cn^
 ||caomeixz7.xyz^
 ||capexvision-ai.com^
 ||capexvision-ai.net^
@@ -1266,6 +1270,7 @@
 ||events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn^
 ||events-dre-op-hicloud-com-dre.appacc.dbankedge.cn^
 ||hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn^
+||metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn^
 ||engine.dcad01.com^
 ||xcx.dcad01.com^
 ||trackercollect.ddxq.mobi^
@@ -1287,6 +1292,7 @@
 ||diamentzyskura-pl.com^
 ||catfront.dianping.com^
 ||dianru.com^
+||www.digitalfiles.org^
 ||bea-s.dinghuoche.com^
 ||resolver.dingtalk.com^
 ||linktrace.diningcity.cn^
@@ -1752,7 +1758,6 @@
 ||gtags.net^
 ||gtcqbnu.cn^
 ||pgdt.gtimg.cn^
-||tianshu.gtimg.cn^
 ||ra.gtimg.com^
 ||splashqqlive.gtimg.com^
 ||wa.gtimg.com^
@@ -2268,6 +2273,7 @@
 ||api.jietuhb.com^
 ||jiezoiq.cn^
 ||jiguang.cn^
+||ad.open.api.jihuoniao.com^
 ||target.ads.jihuoniao.com^
 ||jikewan.com^
 ||wuliao.jingyanben.com^
@@ -2515,6 +2521,7 @@
 ||lean.com^
 ||ads-api-o.api.leiniao.com^
 ||ctv-ads.api.leiniao.com^
+||ssai-ads.api.leiniao.com^
 ||ssai2-ads.api.leiniao.com^
 ||update.lejiao.tv^
 ||lejuliang.com^
@@ -3375,6 +3382,7 @@
 ||v6-daily-reading-ad.qznovelvod.com^
 ||v6-reading-ad.qznovelvod.com^
 ||v9-reading-ad.qznovelvod.com^
+||v95-se-zjwztc-reading-ad.qznovelvod.com^
 ||v95-zjjx2tc-reading-ad.qznovelvod.com^
 ||v96-reading-ad.qznovelvod.com^
 ||v96-sz-daily-reading-ad.qznovelvod.com^
@@ -3602,6 +3610,7 @@
 ||sms.info.smart.com^
 ||smucdn.com^
 ||errortracking.snapp.site^
+||ad.snappea.com^
 ||sensors.snappea.com^
 ||misc.api.snaptube.app^
 ||sensors.snaptube.app^
@@ -3965,6 +3974,7 @@
 ||tradplus.com^
 ||tradplusad.com^
 ||trafficjam.cn^
+||trendfamilydeals.shop^
 ||ta.trs.cn^
 ||trustutn.org^
 ||trwallokatownia.net^
@@ -4087,6 +4097,7 @@
 ||gg.uuu9.com^
 ||stat.uuu9.com^
 ||static.flv.uuzuonline.com^
+||uvex-sklep.club^
 ||uwgnpkd.cn^
 ||uwnvcxb.cn^
 ||uxcnhsf.cn^
@@ -4342,6 +4353,7 @@
 ||w8.com.cn^
 ||w97nv5ibv4.com^
 ||tongdun-fingerprint.walmartmobile.cn^
+||wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net^
 ||medad.med.wanfangdata.com.cn^
 ||mlog.wangsu.com^
 ||analytics.wanmei.com^
@@ -4664,6 +4676,7 @@
 ||ydgsvls.cn^
 ||kl.yditweb.cn^
 ||ydmob.com^
+||adpublish.ydstatic.com^
 ||oimagea2.ydstatic.com^
 ||bdm.ye-su.cn^
 ||ir.mail.yeah.net^
