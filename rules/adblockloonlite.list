@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/08/17 16:29:26
-#!support=5033
+#!date=2026/08/18 00:13:38
+#!support=5029
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -1082,6 +1082,7 @@ DOMAIN-SUFFIX,clarins.com.cn
 DOMAIN-SUFFIX,log-api.cli.im
 DOMAIN-SUFFIX,bd1.click.com.cn
 DOMAIN-SUFFIX,clicki.cn
+DOMAIN-SUFFIX,7xi9g1.com1.z0.glb.clouddn.com
 DOMAIN-SUFFIX,bkt.clouddn.com
 DOMAIN-SUFFIX,advertise.cloudlinks.cn
 DOMAIN-SUFFIX,log.cmbchina.com
@@ -1143,11 +1144,9 @@ DOMAIN-SUFFIX,logreport-global-dual.coolbcloud.com
 DOMAIN-SUFFIX,detaillog-global.coolccloud.com
 DOMAIN-SUFFIX,detaillog-global-dual.coolccloud.com
 DOMAIN-SUFFIX,logreport-global-dual.coolccloud.com
-DOMAIN-SUFFIX,weblogger-wss.coolccloud.com
 DOMAIN-SUFFIX,wslog-global-dual.coolccloud.com
 DOMAIN-SUFFIX,detaillog-global-dual.coolgcloud.com
 DOMAIN-SUFFIX,logreport-global-dual.coolgcloud.com
-DOMAIN-SUFFIX,weblogger-wss.coolgcloud.com
 DOMAIN-SUFFIX,detaillog-global-dual.coolhcloud.com
 DOMAIN-SUFFIX,logreport-global-dual.coolhcloud.com
 DOMAIN-SUFFIX,coolkaba.com
@@ -2314,7 +2313,6 @@ DOMAIN-SUFFIX,jsmxkj.com
 DOMAIN-SUFFIX,jspcdn.cn
 DOMAIN-SUFFIX,fpb1.jsq886.com
 DOMAIN-SUFFIX,jszctech.com
-DOMAIN-SUFFIX,log.jtexpress.com.cn
 DOMAIN-SUFFIX,junshi8181.com
 DOMAIN-SUFFIX,y1.junshitt.com
 DOMAIN-SUFFIX,css.juqingba.cn
@@ -2394,7 +2392,6 @@ DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
 DOMAIN-SUFFIX,log-sdk.ksapisrv.com
 DOMAIN-SUFFIX,multi-az-ulog.ksapisrv.com
 DOMAIN-SUFFIX,ulog.ksapisrv.com
-DOMAIN-SUFFIX,ulog-sdk.ksapisrv.com
 DOMAIN-SUFFIX,ulog.v6.ksapisrv.com
 DOMAIN-SUFFIX,ulogjs.ksapisrv.com
 DOMAIN-SUFFIX,ulogs1.ksapisrv.com
@@ -3790,7 +3787,6 @@ DOMAIN-SUFFIX,report.tantanapp.com
 DOMAIN-SUFFIX,sc-report.tantanapp.com
 DOMAIN-SUFFIX,seiya.tantanapp.com
 DOMAIN-SUFFIX,tanv.com
-DOMAIN-SUFFIX,click.tanx.com
 DOMAIN-SUFFIX,cms.tanx.com
 DOMAIN-SUFFIX,df.tanx.com
 DOMAIN-SUFFIX,ef-dongfeng.tanx.com
