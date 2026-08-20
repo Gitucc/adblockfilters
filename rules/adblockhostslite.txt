@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260820083219
-# Last modified: 2026/08/20 08:32:19
-# Blocked domains: 4984
+# Version: 20260820162323
+# Last modified: 2026/08/20 16:23:23
+# Blocked domains: 4997
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -134,6 +134,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bd-retrieval1.2345.com
 0.0.0.0	bdcode.2345.com
 0.0.0.0	ggcode.2345.com
+0.0.0.0	jifen.2345.com
 0.0.0.0	25662zubo23739.com
 0.0.0.0	25t9uxgnx.com
 0.0.0.0	2607.cn
@@ -866,6 +867,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sofire.bdstatic.com
 0.0.0.0	su.bdstatic.com
 0.0.0.0	zz.bdstatic.com
+0.0.0.0	ads-i3.xhscdn.com.a.bdydns.com
 0.0.0.0	smetrics.beatsbydre.com
 0.0.0.0	smetrics.beatsbydre.com.cn
 0.0.0.0	beizi.biz
@@ -1117,6 +1119,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cnzz.com
 0.0.0.0	1.codesdq.com
 0.0.0.0	reportwest-midas.codmwest.com
+0.0.0.0	abc.colayun.cn
 0.0.0.0	guif.coloros.com
 0.0.0.0	icosa-sg.coloros.com
 0.0.0.0	icota-eu.coloros.com
@@ -1283,7 +1286,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	trackercollect.ddxq.mobi
 0.0.0.0	trackerfeed.ddxq.mobi
 0.0.0.0	analytics.dealmoon.com
-0.0.0.0	sm.dell.com
 0.0.0.0	aem.dentsuchina.cn
 0.0.0.0	www.destinationurl.com
 0.0.0.0	msz3.destinia.cn
@@ -1322,10 +1324,12 @@ ff02::3	ip6-allhosts
 0.0.0.0	posthog.casinoplus.top.eo.dnse3.com
 0.0.0.0	beacon.cdn.qq.com.cdn.dnsv1.com
 0.0.0.0	stats-cdn.polyspeak.ai.cdn.dnsv1.com
+0.0.0.0	track.sohu.com.dsa.dnsv1.com.cn
 0.0.0.0	dnyzbp.cn
 0.0.0.0	do-global.com
 0.0.0.0	dobra-aktywolnia-pl.com
 0.0.0.0	dobraaktywolnia-ai.com
+0.0.0.0	stat.doc88.com
 0.0.0.0	zx.docin.com
 0.0.0.0	doglobal.net
 0.0.0.0	ads.doit.com.cn
@@ -1337,6 +1341,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	ap.dongqiudi.com
 0.0.0.0	sensors-log.dongqiudi.com
 0.0.0.0	stat.dongqiudi.com
+0.0.0.0	cloudcdn.dopa.com
+0.0.0.0	www.dopa.com
 0.0.0.0	monitor-web.dotfashion.cn
 0.0.0.0	doubleclick-cn.net
 0.0.0.0	doubleclick.net
@@ -1438,6 +1444,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	icy-brown-yrznyes4.edgeone.dev
 0.0.0.0	intellectual-property-center.edgeone.dev
 0.0.0.0	intellectual-property-troubleshooting-center.edgeone.dev
+0.0.0.0	khjfdgsfsdfhjklljdhgdstryt-dp97141gwv85.edgeone.dev
 0.0.0.0	loginpages0000-dpf0869el7ik.edgeone.dev
 0.0.0.0	no2body7-dpyijatuyl2q.edgeone.dev
 0.0.0.0	pretty-white-ziekneey.edgeone.dev
@@ -2503,6 +2510,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	msgacs-m.lazada.vn
 0.0.0.0	cc.lbesec.com
 0.0.0.0	lbprjdi.cn
+0.0.0.0	lccfjszp.cn
 0.0.0.0	ldhy.click
 0.0.0.0	mnqlog.ldmnq.com
 0.0.0.0	storeen.ldmnq.com
@@ -3378,6 +3386,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	v5-bd-daily-reading-ad.qznovelvod.com
 0.0.0.0	v5-ex-reading-ad.qznovelvod.com
 0.0.0.0	v5-reading-ad.qznovelvod.com
+0.0.0.0	v5-se-gddgtc-reading-ad.qznovelvod.com
 0.0.0.0	v5-se-sjy-daily-reading-ad.qznovelvod.com
 0.0.0.0	v6-daily-reading-ad.qznovelvod.com
 0.0.0.0	v6-reading-ad.qznovelvod.com
@@ -3857,6 +3866,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.tec73.com
 0.0.0.0	tongji.techweb.com.cn
 0.0.0.0	tecunonline.com
+0.0.0.0	data.tempersyi.com
 0.0.0.0	apd-pcdnvodstat.teg.tencent-cloud.net
 0.0.0.0	apd-pcdnwxlogin.teg.tencent-cloud.net
 0.0.0.0	apd-pcdnwxnat.teg.tencent-cloud.net
@@ -4295,6 +4305,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sg-cfg-stsdk.vivoglobal.com
 0.0.0.0	stsdk.vivoglobal.com
 0.0.0.0	tr-domaincfg.vivoglobal.com
+0.0.0.0	tr-err-up.vivoglobal.com
 0.0.0.0	tr-onrt-stsdk.vivoglobal.com
 0.0.0.0	tr-ort-stsdk.vivoglobal.com
 0.0.0.0	tr-p.vivoglobal.com
@@ -4565,6 +4576,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	storeconfig.mistat.intl.xiaomi.com
 0.0.0.0	sys.tv.india.xiaomi.com
 0.0.0.0	t1.a.market.xiaomi.com
+0.0.0.0	t17.market.xiaomi.com
 0.0.0.0	tz.sec.xiaomi.com
 0.0.0.0	video.market.xiaomi.com
 0.0.0.0	api.device.xiaomi.net
@@ -4630,6 +4642,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	xn--wxtr9fwyxk9c.xn--fiqs8s
 0.0.0.0	xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 0.0.0.0	xpcwrgy.cn
+0.0.0.0	xpdyqax.cn
 0.0.0.0	xryrylt.cn
 0.0.0.0	bchina-1.xsfaya.com
 0.0.0.0	rdbd.xsread.com
