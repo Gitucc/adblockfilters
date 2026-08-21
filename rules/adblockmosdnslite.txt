@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20260821083453
-# Last modified: 2026/08/21 08:34:53
-# Blocked domains: 4979
+# Version: 20260821162516
+# Last modified: 2026/08/21 16:25:16
+# Blocked domains: 5002
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -94,6 +94,7 @@ match.p4p.1688.com
 16aq.cn
 cvda.17173.com
 log1.17173.com
+scollect.17173.com
 stat.v.17173.com
 vda.17173.com
 s.17173cdn.com
@@ -279,6 +280,7 @@ union.6.cn
 644446.com
 m5.66077.cn
 1.66law.cn
+66mh.shop
 bj.ad.track.66mobi.com
 6789.net
 kl.67it.com
@@ -987,6 +989,7 @@ quan-event-tracking.log-global.aliyuncs.com.w.cdngslb.com
 sgtm.dhgate.com.cdngtm.com
 httpdns.c.cdnhwc2.com
 httpdns1.cc.cdnhwc5.com
+p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com
 ad.cdnjm.cn
 syh-imp.cdnjtzy.com
@@ -1287,6 +1290,7 @@ www.digitalfiles.org
 bea-s.dinghuoche.com
 resolver.dingtalk.com
 linktrace.diningcity.cn
+stdown.dinju.com
 dipan.com
 tr.email.directindustry.com
 diskclean.cn
@@ -1322,7 +1326,6 @@ ap.dongqiudi.com
 sensors-log.dongqiudi.com
 stat.dongqiudi.com
 cloudcdn.dopa.com
-www.dopa.com
 monitor-web.dotfashion.cn
 doubleclick-cn.net
 doubleclick.net
@@ -1411,10 +1414,12 @@ webmail-updateupcoming-com-dp7cp80id24e.zh-cn.edgeone.cool
 05gdfi007-dpm2gawaoxpl.edgeone.dev
 098yjuio-dpwxvxwxcuwy.edgeone.dev
 alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev
+balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 cloudsrvjk876nj987-dp1lu5k2i9vz.edgeone.dev
 combined-silver-0x5s9uu5.edgeone.dev
 copyright-claim-review-request-form.edgeone.dev
 copyright-policy-troubleshooting-request-form.edgeone.dev
+d7522e2c-c5f7-4dc8-b83f-9f9dacd15c4d.edgeone.dev
 doc-fcms.edgeone.dev
 exotic-lime-olunrtbr.edgeone.dev
 ffsre-dpzou3ijaxzb.edgeone.dev
@@ -1424,13 +1429,16 @@ intellectual-property-troubleshooting-center.edgeone.dev
 khjfdgsfsdfhjklljdhgdstryt-dp97141gwv85.edgeone.dev
 loginpages0000-dpf0869el7ik.edgeone.dev
 no2body7-dpyijatuyl2q.edgeone.dev
+profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 request-copyright-policy-review.edgeone.dev
 review-copyright-infringement-reports.edgeone.dev
 review-copyright-policy-violations.edgeone.dev
 srvkdtsged5w23456ds-dplleb90jz3x.edgeone.dev
 symmetrical-octo-umbrella-dpfq8j6ozudi.edgeone.dev
+troubleshoot-copyright-policy-violations.edgeone.dev
 upgrade-dp2c1xqj8ejo.edgeone.dev
 well-aquamarine-psata8ej.edgeone.dev
+xminesserversaqwq.edgeone.dev
 ytterbic-amber-qilwigl2.edgeone.dev
 eexlgyn.cn
 eeyy.com
@@ -1618,6 +1626,7 @@ getui.net
 getyourgiftnow3.blogspot.com
 biz.gexing.com
 safebrowsing.urlsec.gg.com
+shqdown.ggzuhao.com
 ghsnhjk.cn
 ad.partner.gifshow.com
 gdfp.gifshow.com
@@ -1800,7 +1809,6 @@ hbxhnqj.cn
 hbzhenquan.cn
 hcbmq.cn
 hccms.com.cn
-heavly1.com
 hechaocheng.cn
 heheshield.com
 heima8.com
@@ -2133,6 +2141,7 @@ cane.intel.cn
 dogo.intel.cn
 intely.cn
 smetrics.marketing.interact-lighting.com.cn
+ads.inteyun.cn
 inveno.com
 ioiksw.cn
 c81.ipanocloud.com
@@ -2251,6 +2260,8 @@ v3.jiathis.com
 api.jietuhb.com
 jiezoiq.cn
 jiguang.cn
+ad.open.api.jihuoniao.com
+ad.report.jihuoniao.com
 target.ads.jihuoniao.com
 jikewan.com
 wuliao.jingyanben.com
@@ -2541,6 +2552,7 @@ libaishuo.com
 track.libii.cn
 lichunxiao.cn
 liebaovip.com
+log.liepin.com
 ads.linkedin.cn
 linkhaitao.com
 litchiads.com
@@ -2642,6 +2654,7 @@ ebook.res.meizu.com
 game-res.meizu.com
 game.res.meizu.com
 infocenter.meizu.com
+norma-external-collect.meizu.com
 openapi-news.meizu.com
 push.res.meizu.com
 reader.meizu.com
@@ -2799,6 +2812,7 @@ moodoo.com.cn
 m.moomoo.com
 ad.moonton.cn
 moquanad.com
+ads.morefreegame.com
 motsjnv.cn
 motuopj.cn
 elq.mouser.cn
@@ -3773,6 +3787,7 @@ adashx4sg.ut.taobao.com
 adashx4yt.m.taobao.com
 adashxgc.ut.taobao.com
 ae-alimelog.taobao.com
+agoodm.m.taobao.com
 ai.m.taobao.com
 amdcopen.m.taobao.com
 audid-api.taobao.com
@@ -3928,6 +3943,7 @@ ato.tooopen.com
 toponad.com
 toppdf.co
 topsem.com
+static.topxgun.com
 touch-moblie.com
 touclick.com
 toushibao.com
@@ -4079,6 +4095,7 @@ uri6.com
 urlqh.cn
 stats.us-light-edge.com
 gyqpyr.utsource.net
+utve.cn
 dlog-config.uu.cc
 jdlog.uu.cc
 ms-report.uu.cc
@@ -4127,6 +4144,7 @@ ws-p2p-pull.video-voip.com
 vigyn4gpx.com
 vihppjk.cn
 n-st.vip.com
+in.vipliangmei.com
 tr.email.virtual-expo.com
 smetrics.visitsingapore.com.cn
 bhwkju.vivo.com
@@ -4193,6 +4211,7 @@ cname-in-bom01-nginxpool03.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
 co-romsp-unifyconfig.vivoglobal.com
 co-st-sl.vivoglobal.com
+co-timesync.vivoglobal.com
 co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
 de-gdpr-err-up.vivoglobal.com
@@ -4242,6 +4261,7 @@ in-vcode-od.vivoglobal.com
 in-vcode-or.vivoglobal.com
 in-vpushonrt-stsdk.vivoglobal.com
 in-vpushort-stsdk.vivoglobal.com
+kz-onrt-stsdk.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 mx-cota.vivoglobal.com
 mx-domaincfg.vivoglobal.com
@@ -4258,6 +4278,7 @@ mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
 onrt-stsdk.vivoglobal.com
+ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
 ru-comort-stsdk.vivoglobal.com
 ru-compnrt-stsdk.vivoglobal.com
@@ -4341,6 +4362,7 @@ w8.com.cn
 w97nv5ibv4.com
 tongdun-fingerprint.walmartmobile.cn
 wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
+analytics.med.wanfangdata.com.cn
 medad.med.wanfangdata.com.cn
 mlog.wangsu.com
 analytics.wanmei.com
@@ -4520,6 +4542,7 @@ bss.pandora.xiaomi.com
 cdn-exp-sg-recommend.pt.xiaomi.com
 cdn.exp.xiaomi.com
 cdn.fds.api.xiaomi.com
+data.game.xiaomi.com
 data.mistat.intl.xiaomi.com
 de.pandora.xiaomi.com
 dvb.pandora.xiaomi.com
