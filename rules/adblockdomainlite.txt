@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260822083200
-! Last modified: 2026/08/22 08:32:00
-! Blocked domains: 5039
+! Version: 20260822161618
+! Last modified: 2026/08/22 16:16:18
+! Blocked domains: 5044
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -149,12 +149,15 @@ h5.mse.360.cn
 hao.360.cn
 lianmeng.360.cn
 mclean.f.360.cn
+msch.f.360.cn
 mvconf.f.360.cn
 openbox.mobilem.360.cn
 papi.look.360.cn
+pscan.f.360.cn
 pub.se.360.cn
 qurl.f.360.cn
 s.360.cn
+s.f.360.cn
 soft.data.weather.360.cn
 stat.m.360.cn
 stat.sd.360.cn
@@ -665,7 +668,6 @@ azu0jytzgm.com
 b1.b2b168.com
 b1.b2b168.net
 b4641y3dw.com
-b8b4ix7bj.com
 apishow.babybus.com
 apishowstats.babybus.com
 apppromoteapi.babybus.com
@@ -978,6 +980,7 @@ ads5-normal.zijieapi.com.c.dsa.cdnbuild.net
 tracker.cdnbye.com
 ads-i2.xhscdn.com.w.cdngslb.com
 ads-img-al.xhscdn.com.w.cdngslb.com
+ads-video-al.xhscdn.com.w.cdngslb.com
 ads3-normal-hl.zijieapi.com.w.cdngslb.com
 ads3-normal-lf.zijieapi.com.w.cdngslb.com
 ads3-normal-lq.zijieapi.com.w.cdngslb.com
@@ -991,6 +994,7 @@ quan-event-tracking.log-global.aliyuncs.com.w.cdngslb.com
 sgtm.dhgate.com.cdngtm.com
 httpdns.c.cdnhwc2.com
 httpdns1.cc.cdnhwc5.com
+adsimg.kompas.com.0d0007d9.cdnhwc8.cn
 p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 ad.cdnjm.cn
 syh-imp.cdnjtzy.com
@@ -1010,7 +1014,6 @@ ads.adagent.chacha.com
 metrics.chacha.com
 tracking.chacha.com
 chance-ad.com
-chanced112.com
 chanet.com.cn
 changyi21.cn
 analysis.chatglm.cn
@@ -1115,6 +1118,8 @@ log-eap-in.coloros.com
 log-eap-sg.coloros.com
 moa-upload-online.coloros.com
 smartcard.apps.coloros.com
+smartcardf-eu.apps.coloros.com
+smartcardf.apps.coloros.com
 iadcontent-lb.apple.com.akadns.net
 iadsdk.apple.com.akadns.net
 wangsu-smetrics.redhat.com.edgekey.net
@@ -1322,6 +1327,7 @@ ap.dongqiudi.com
 sensors-log.dongqiudi.com
 stat.dongqiudi.com
 cloudcdn.dopa.com
+www.dopa.com
 monitor-web.dotfashion.cn
 doubleclick-cn.net
 doubleclick.net
@@ -1437,7 +1443,6 @@ review-copyright-infringement-reports.edgeone.dev
 review-copyright-policy-violations.edgeone.dev
 srvkdtsged5w23456ds-dplleb90jz3x.edgeone.dev
 symmetrical-octo-umbrella-dpfq8j6ozudi.edgeone.dev
-troubleshoot-copyright-policy-violations.edgeone.dev
 upgrade-dp2c1xqj8ejo.edgeone.dev
 well-aquamarine-psata8ej.edgeone.dev
 xminesserversaqwq.edgeone.dev
@@ -1761,6 +1766,7 @@ ra.gtimg.com
 splashqqlive.gtimg.com
 wa.gtimg.com
 rum-openway.guance.com
+us1-rum-openway.guance.com
 bd1.guancha.cn
 bdjs.guangyuanol.cn
 guangzhuiyuan.com
@@ -2013,6 +2019,7 @@ vipauth.hpplay.cn
 vipgslb.hpplay.cn
 cdn.hpplay.com.cn
 h5.hpplay.com.cn
+leboapi.hpplay.com.cn
 support.hqts.com
 www.hseda.com
 hsrgnac.cn
@@ -2047,12 +2054,6 @@ trackcommon.hujiang.com
 u8.hujiang.com
 log.hunantv.com
 log.v2.hunantv.com
-huo07100hy.com
-huo07110hy.com
-huo07120hy.com
-huo07140hy.com
-huo07150hy.com
-huo07160hy.com
 huoche.com.cn
 huoying666.com
 collect.hupu.com
@@ -3896,7 +3897,6 @@ beacon.sparta.mig.tencent-cloud.net
 trace.zhiyan.tencent-cloud.net
 ad.hunyuan.tencent.com
 android.bugly.tencent.com
-beacon.tencent.com
 galileotelemetry.tencent.com
 guid.tpns.tencent.com
 guid.tpns.hk.tencent.com
@@ -3978,6 +3978,7 @@ adscfg.togothermany.cn
 adsup.togothermany.cn
 track.tom.com
 track.tomwx.net
+fp.tongdun.net
 sky.tongjiai.com
 ato.tooopen.com
 toponad.com
@@ -4530,6 +4531,7 @@ pv.xcar.com.cn
 pvx.xcar.com.cn
 zio.xcar.com.cn
 analytics.xdiarys.com
+analytics2.xdiarys.com
 xdrig.com
 xegnfwkju.com
 xerhibx.cn
@@ -4544,6 +4546,7 @@ ads-i10.xhscdn.com
 ads-i2.xhscdn.com
 ads-i3.xhscdn.com
 ads-i4.xhscdn.com
+ads-i8.xhscdn.com
 ads-img-al.xhscdn.com
 ads-img-bak.xhscdn.com
 ads-img-qc.xhscdn.com
@@ -4572,6 +4575,7 @@ t2.xiaohongshu.com
 xiaojifly.cn
 adtrack.xiaojukeji.com
 api.d.xiaomi.com
+api.hybrid.xiaomi.com
 api.installer.xiaomi.com
 api.miui.security.xiaomi.com
 appstore.cdn.pandora.xiaomi.com
@@ -4649,6 +4653,7 @@ a2.xinhuanet.com
 xinlimaoyi2.xinlimaoyi.cn
 upaicdn.xinmei365.com
 tongji.xinmin.cn
+hi.xiunm.cn
 xiyouence.com
 dhlpaketzustellung.xjili99.vip
 xjl2ts2q6a.com
