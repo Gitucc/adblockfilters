@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260823161649
-# Last modified: 2026/08/23 16:16:49
-# Blocked domains: 5047
+# Version: 20260824001144
+# Last modified: 2026/08/24 00:11:44
+# Blocked domains: 5038
 #
 local=/kwflvcdn.000dn.com/
 local=/img.0279.net/
@@ -225,7 +225,6 @@ local=/log2.51changdu.com/
 local=/logs.51cto.com/
 local=/trace.51jingying.com/
 local=/scdata.51job.com/
-local=/51mitu.com/
 local=/a1.51shiti.cn/
 local=/51taifu.com/
 local=/r.51wnl-cq.com/
@@ -948,7 +947,6 @@ local=/stratus.campaign-image.com.cn/
 local=/zc1.campaign-view.com.cn/
 local=/canard-gov.com/
 local=/count.candou.com/
-local=/telemetry.canva.cn/
 local=/caomeixz7.xyz/
 local=/capexvision-ai.com/
 local=/capexvision-ai.net/
@@ -1117,7 +1115,6 @@ local=/smartcardf-eu.apps.coloros.com/
 local=/smartcardf.apps.coloros.com/
 local=/iadcontent-lb.apple.com.akadns.net/
 local=/iadsdk.apple.com.akadns.net/
-local=/wangsu-smetrics.redhat.com.edgekey.net/
 local=/trk.compair.com.cn/
 local=/strack.concur.cn/
 local=/track.concur.cn/
@@ -1406,7 +1403,6 @@ local=/cp2.eastmoney.com/
 local=/emdcadvertise.eastmoney.com/
 local=/huaxiang.eastmoney.com/
 local=/same.eastmoney.com/
-local=/img.easypass.cn/
 local=/easytomessage.com/
 local=/eblnzoq.cn/
 local=/ebrid.cn/
@@ -1963,7 +1959,6 @@ local=/hnol.net/
 local=/metrics.hollisterco.cn/
 local=/smetrics.hollisterco.cn/
 local=/homebargainmarket.shop/
-local=/log.homestyler.com/
 local=/homla.yachts/
 local=/w88.hongkongdisneyland.com.cn/
 local=/om.hotels.cn/
@@ -2133,7 +2128,6 @@ local=/ilkwork.com/
 local=/smetrics.illumina.com.cn/
 local=/metrics.ilovematlab.cn/
 local=/smetrics.ilovematlab.cn/
-local=/im30.net/
 local=/imageter.com/
 local=/img001.com/
 local=/tj.img4399.com/
@@ -2993,6 +2987,7 @@ local=/at-af.outfit7.com/
 local=/bidder.dsp.outfit7.com/
 local=/hb-af-us-central1.outfit7.com/
 local=/revive.outin.cn/
+local=/ouyaoxiazai.com/
 local=/overlay.top/
 local=/ovnrmvg.cn/
 local=/umami.oyo.cool/
@@ -3944,7 +3939,6 @@ local=/stats.thermoscientific.cn/
 local=/thinkingdata.cn/
 local=/trk.thomas-pump.cn/
 local=/trail.thomsonreuters.cn/
-local=/ad.thsi.cn/
 local=/tracking.mail.ti.com.cn/
 local=/tiandi.com/
 local=/tianjimedia.com/
@@ -4404,8 +4398,6 @@ local=/vyye.cn/
 local=/w8.com.cn/
 local=/w97nv5ibv4.com/
 local=/tongdun-fingerprint.walmartmobile.cn/
-local=/wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net/
-local=/analytics.med.wanfangdata.com.cn/
 local=/medad.med.wanfangdata.com.cn/
 local=/mlog.wangsu.com/
 local=/analytics.wanmei.com/
@@ -4533,7 +4525,6 @@ local=/jcmonitor.xcar.com.cn/
 local=/pv.xcar.com.cn/
 local=/pvx.xcar.com.cn/
 local=/zio.xcar.com.cn/
-local=/analytics.xdiarys.com/
 local=/xdrig.com/
 local=/xegnfwkju.com/
 local=/xerhibx.cn/
