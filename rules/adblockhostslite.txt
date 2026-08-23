@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260823083513
-# Last modified: 2026/08/23 08:35:13
-# Blocked domains: 5028
+# Version: 20260823161649
+# Last modified: 2026/08/23 16:16:49
+# Blocked domains: 5047
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -762,6 +762,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	m1.baidu.com
 0.0.0.0	miao.baidu.com
 0.0.0.0	miaowu.baidu.com
+0.0.0.0	mo.baidu.com
 0.0.0.0	mobads.baidu.com
 0.0.0.0	mobads-logs.baidu.com
 0.0.0.0	mountain.zhidao.baidu.com
@@ -894,6 +895,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	data.bilibili.com
 0.0.0.0	interface.bilibili.com
 0.0.0.0	miniapp.bilibili.com
+0.0.0.0	tracker.chat.bilibili.com
 0.0.0.0	line1-log.biligame.net
 0.0.0.0	line3-adscore-api.biligame.net
 0.0.0.0	httpdns.bilivideo.com
@@ -1419,6 +1421,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	emdcadvertise.eastmoney.com
 0.0.0.0	huaxiang.eastmoney.com
 0.0.0.0	same.eastmoney.com
+0.0.0.0	img.easypass.cn
 0.0.0.0	easytomessage.com
 0.0.0.0	eblnzoq.cn
 0.0.0.0	ebrid.cn
@@ -1451,6 +1454,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	review-copyright-policy-violations.edgeone.dev
 0.0.0.0	srvkdtsged5w23456ds-dplleb90jz3x.edgeone.dev
 0.0.0.0	symmetrical-octo-umbrella-dpfq8j6ozudi.edgeone.dev
+0.0.0.0	troubleshoot-copyright-policy-violations.edgeone.dev
 0.0.0.0	upgrade-dp2c1xqj8ejo.edgeone.dev
 0.0.0.0	well-aquamarine-psata8ej.edgeone.dev
 0.0.0.0	xminesserversaqwq.edgeone.dev
@@ -1644,7 +1648,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	getyourgiftnow3.blogspot.com
 0.0.0.0	biz.gexing.com
 0.0.0.0	safebrowsing.urlsec.gg.com
-0.0.0.0	shqdown.ggzuhao.com
 0.0.0.0	ghsnhjk.cn
 0.0.0.0	ad.partner.gifshow.com
 0.0.0.0	gdfp.gifshow.com
@@ -2136,6 +2139,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	seeder.igetget.com
 0.0.0.0	igexin.com
 0.0.0.0	ihclam.cn
+0.0.0.0	appadapi.ihuman.com
 0.0.0.0	iimedia.cn
 0.0.0.0	ijinshan.com
 0.0.0.0	daima.ijq.tv
@@ -2144,6 +2148,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	smetrics.illumina.com.cn
 0.0.0.0	metrics.ilovematlab.cn
 0.0.0.0	smetrics.ilovematlab.cn
+0.0.0.0	im30.net
 0.0.0.0	imageter.com
 0.0.0.0	img001.com
 0.0.0.0	tj.img4399.com
@@ -2294,6 +2299,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.jietuhb.com
 0.0.0.0	jiezoiq.cn
 0.0.0.0	jiguang.cn
+0.0.0.0	ad.open.api.jihuoniao.com
+0.0.0.0	ad.report.jihuoniao.com
 0.0.0.0	target.ads.jihuoniao.com
 0.0.0.0	jikewan.com
 0.0.0.0	wuliao.jingyanben.com
@@ -2559,6 +2566,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	o.lenovo.com
 0.0.0.0	s.lenovo.com
 0.0.0.0	fsr.lenovomm.com
+0.0.0.0	prw.lenovomm.com
 0.0.0.0	pushapi.lenovomm.com
 0.0.0.0	susapi.lenovomm.com
 0.0.0.0	uss-pid.lenovomm.com
@@ -2743,6 +2751,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ggx03.miguvideo.com
 0.0.0.0	ggxwb.miguvideo.com
 0.0.0.0	v.miguvideo.com
+0.0.0.0	abtest-api-data.mihoyo.com
 0.0.0.0	ad-log-upload.mihoyo.com
 0.0.0.0	apm-api.mihoyo.com
 0.0.0.0	apm-log-upload.mihoyo.com
@@ -3404,6 +3413,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	v5-bd-daily-reading-ad.qznovelvod.com
 0.0.0.0	v5-ex-reading-ad.qznovelvod.com
 0.0.0.0	v5-reading-ad.qznovelvod.com
+0.0.0.0	v5-se-bjtc-reading-ad.qznovelvod.com
 0.0.0.0	v5-se-gddgtc-reading-ad.qznovelvod.com
 0.0.0.0	v5-se-sjy-daily-reading-ad.qznovelvod.com
 0.0.0.0	v6-daily-reading-ad.qznovelvod.com
@@ -3674,6 +3684,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tnc3-aliec2.snssdk.com
 0.0.0.0	tnc3-alisc1.snssdk.com
 0.0.0.0	tnc3-bjlgy.snssdk.com
+0.0.0.0	toutiao-frontier.snssdk.com
 0.0.0.0	tsearch.snssdk.com
 0.0.0.0	ug.snssdk.com
 0.0.0.0	vcl-brain.snssdk.com
@@ -3795,6 +3806,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	talk99.cn
 0.0.0.0	talkingdata.com
 0.0.0.0	stats-sdk.tange365.com
+0.0.0.0	identify.tankeai.com
 0.0.0.0	clog.tanshudata.com
 0.0.0.0	pco-sm-log.tantanapp.com
 0.0.0.0	report.tantanapp.com
@@ -3826,6 +3838,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	adashx4yt.m.taobao.com
 0.0.0.0	adashxgc.ut.taobao.com
 0.0.0.0	ae-alimelog.taobao.com
+0.0.0.0	agoodm.m.taobao.com
 0.0.0.0	ai.m.taobao.com
 0.0.0.0	amdcopen.m.taobao.com
 0.0.0.0	audid-api.taobao.com
@@ -3899,6 +3912,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	trace.zhiyan.tencent-cloud.net
 0.0.0.0	ad.hunyuan.tencent.com
 0.0.0.0	android.bugly.tencent.com
+0.0.0.0	beacon.tencent.com
 0.0.0.0	galileotelemetry.tencent.com
 0.0.0.0	guid.tpns.tencent.com
 0.0.0.0	guid.tpns.hk.tencent.com
@@ -4255,6 +4269,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cname-sin01-stsdk09.vivoglobal.com
 0.0.0.0	co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0	co-st-sl.vivoglobal.com
+0.0.0.0	co-timesync.vivoglobal.com
 0.0.0.0	co-vcode-api.vivoglobal.com
 0.0.0.0	co-vcode-od.vivoglobal.com
 0.0.0.0	de-gdpr-err-up.vivoglobal.com
@@ -4329,6 +4344,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ru-err-up.vivoglobal.com
 0.0.0.0	ru-exstsdk.vivoglobal.com
 0.0.0.0	ru-onrt-stsdk.vivoglobal.com
+0.0.0.0	ru-os-config-appstore.vivoglobal.com
 0.0.0.0	ru-p.vivoglobal.com
 0.0.0.0	ru-romsp-unifyconfig.vivoglobal.com
 0.0.0.0	ru-st-exappupgrade.vivoglobal.com
@@ -4341,6 +4357,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sg-cfg-stsdk.vivoglobal.com
 0.0.0.0	stsdk.vivoglobal.com
 0.0.0.0	tr-domaincfg.vivoglobal.com
+0.0.0.0	tr-err-up.vivoglobal.com
 0.0.0.0	tr-onrt-stsdk.vivoglobal.com
 0.0.0.0	tr-ort-stsdk.vivoglobal.com
 0.0.0.0	tr-p.vivoglobal.com
@@ -4584,6 +4601,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cdn-exp-sg-recommend.pt.xiaomi.com
 0.0.0.0	cdn.exp.xiaomi.com
 0.0.0.0	cdn.fds.api.xiaomi.com
+0.0.0.0	data.game.xiaomi.com
 0.0.0.0	data.mistat.intl.xiaomi.com
 0.0.0.0	de.pandora.xiaomi.com
 0.0.0.0	dvb.pandora.xiaomi.com
@@ -4832,6 +4850,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	analysis.yozocloud.cn
 0.0.0.0	yrnv.cn
 0.0.0.0	yrqwnc.cn
+0.0.0.0	ad-material.ys7.com
 0.0.0.0	log.ys7.com
 0.0.0.0	ysjwj.com
 0.0.0.0	ysont.cn

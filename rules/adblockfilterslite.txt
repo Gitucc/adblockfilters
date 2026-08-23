@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260823083513
-! Last modified: 2026/08/23 08:35:13
-! Blocked Filters: 43613
+! Version: 20260823161649
+! Last modified: 2026/08/23 16:16:49
+! Blocked Filters: 43614
 !
 ###AC_ad
 ###AD_160
@@ -26812,6 +26812,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||wl.jd.com/wl.js
 @@||wowpic*.store^$image,stealth=referrer,domain=comix.*
 @@||wps-cn-ep.wpscdn.cn/wps/download/$stealth=referrer
+@@||wpscdn.cn^$stealth=referrer,domain=wps.cn
 @@||wscdn.xmwol.com^$stealth=referrer,image,stylesheet
 @@||wsr.pearsonvue.com^$extension
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'

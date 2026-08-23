@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/08/23 08:35:14
-#!support=5028
+#!date=2026/08/23 16:16:49
+#!support=5047
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -754,6 +754,7 @@
 .m1.baidu.com
 .miao.baidu.com
 .miaowu.baidu.com
+.mo.baidu.com
 .mobads.baidu.com
 .mobads-logs.baidu.com
 .mountain.zhidao.baidu.com
@@ -886,6 +887,7 @@
 .data.bilibili.com
 .interface.bilibili.com
 .miniapp.bilibili.com
+.tracker.chat.bilibili.com
 .line1-log.biligame.net
 .line3-adscore-api.biligame.net
 .httpdns.bilivideo.com
@@ -1411,6 +1413,7 @@
 .emdcadvertise.eastmoney.com
 .huaxiang.eastmoney.com
 .same.eastmoney.com
+.img.easypass.cn
 .easytomessage.com
 .eblnzoq.cn
 .ebrid.cn
@@ -1443,6 +1446,7 @@
 .review-copyright-policy-violations.edgeone.dev
 .srvkdtsged5w23456ds-dplleb90jz3x.edgeone.dev
 .symmetrical-octo-umbrella-dpfq8j6ozudi.edgeone.dev
+.troubleshoot-copyright-policy-violations.edgeone.dev
 .upgrade-dp2c1xqj8ejo.edgeone.dev
 .well-aquamarine-psata8ej.edgeone.dev
 .xminesserversaqwq.edgeone.dev
@@ -1636,7 +1640,6 @@
 .getyourgiftnow3.blogspot.com
 .biz.gexing.com
 .safebrowsing.urlsec.gg.com
-.shqdown.ggzuhao.com
 .ghsnhjk.cn
 .ad.partner.gifshow.com
 .gdfp.gifshow.com
@@ -2128,6 +2131,7 @@
 .seeder.igetget.com
 .igexin.com
 .ihclam.cn
+.appadapi.ihuman.com
 .iimedia.cn
 .ijinshan.com
 .daima.ijq.tv
@@ -2136,6 +2140,7 @@
 .smetrics.illumina.com.cn
 .metrics.ilovematlab.cn
 .smetrics.ilovematlab.cn
+.im30.net
 .imageter.com
 .img001.com
 .tj.img4399.com
@@ -2286,6 +2291,8 @@
 .api.jietuhb.com
 .jiezoiq.cn
 .jiguang.cn
+.ad.open.api.jihuoniao.com
+.ad.report.jihuoniao.com
 .target.ads.jihuoniao.com
 .jikewan.com
 .wuliao.jingyanben.com
@@ -2551,6 +2558,7 @@
 .o.lenovo.com
 .s.lenovo.com
 .fsr.lenovomm.com
+.prw.lenovomm.com
 .pushapi.lenovomm.com
 .susapi.lenovomm.com
 .uss-pid.lenovomm.com
@@ -2735,6 +2743,7 @@
 .ggx03.miguvideo.com
 .ggxwb.miguvideo.com
 .v.miguvideo.com
+.abtest-api-data.mihoyo.com
 .ad-log-upload.mihoyo.com
 .apm-api.mihoyo.com
 .apm-log-upload.mihoyo.com
@@ -3396,6 +3405,7 @@
 .v5-bd-daily-reading-ad.qznovelvod.com
 .v5-ex-reading-ad.qznovelvod.com
 .v5-reading-ad.qznovelvod.com
+.v5-se-bjtc-reading-ad.qznovelvod.com
 .v5-se-gddgtc-reading-ad.qznovelvod.com
 .v5-se-sjy-daily-reading-ad.qznovelvod.com
 .v6-daily-reading-ad.qznovelvod.com
@@ -3666,6 +3676,7 @@
 .tnc3-aliec2.snssdk.com
 .tnc3-alisc1.snssdk.com
 .tnc3-bjlgy.snssdk.com
+.toutiao-frontier.snssdk.com
 .tsearch.snssdk.com
 .ug.snssdk.com
 .vcl-brain.snssdk.com
@@ -3787,6 +3798,7 @@
 .talk99.cn
 .talkingdata.com
 .stats-sdk.tange365.com
+.identify.tankeai.com
 .clog.tanshudata.com
 .pco-sm-log.tantanapp.com
 .report.tantanapp.com
@@ -3818,6 +3830,7 @@
 .adashx4yt.m.taobao.com
 .adashxgc.ut.taobao.com
 .ae-alimelog.taobao.com
+.agoodm.m.taobao.com
 .ai.m.taobao.com
 .amdcopen.m.taobao.com
 .audid-api.taobao.com
@@ -3891,6 +3904,7 @@
 .trace.zhiyan.tencent-cloud.net
 .ad.hunyuan.tencent.com
 .android.bugly.tencent.com
+.beacon.tencent.com
 .galileotelemetry.tencent.com
 .guid.tpns.tencent.com
 .guid.tpns.hk.tencent.com
@@ -4247,6 +4261,7 @@
 .cname-sin01-stsdk09.vivoglobal.com
 .co-romsp-unifyconfig.vivoglobal.com
 .co-st-sl.vivoglobal.com
+.co-timesync.vivoglobal.com
 .co-vcode-api.vivoglobal.com
 .co-vcode-od.vivoglobal.com
 .de-gdpr-err-up.vivoglobal.com
@@ -4321,6 +4336,7 @@
 .ru-err-up.vivoglobal.com
 .ru-exstsdk.vivoglobal.com
 .ru-onrt-stsdk.vivoglobal.com
+.ru-os-config-appstore.vivoglobal.com
 .ru-p.vivoglobal.com
 .ru-romsp-unifyconfig.vivoglobal.com
 .ru-st-exappupgrade.vivoglobal.com
@@ -4333,6 +4349,7 @@
 .sg-cfg-stsdk.vivoglobal.com
 .stsdk.vivoglobal.com
 .tr-domaincfg.vivoglobal.com
+.tr-err-up.vivoglobal.com
 .tr-onrt-stsdk.vivoglobal.com
 .tr-ort-stsdk.vivoglobal.com
 .tr-p.vivoglobal.com
@@ -4576,6 +4593,7 @@
 .cdn-exp-sg-recommend.pt.xiaomi.com
 .cdn.exp.xiaomi.com
 .cdn.fds.api.xiaomi.com
+.data.game.xiaomi.com
 .data.mistat.intl.xiaomi.com
 .de.pandora.xiaomi.com
 .dvb.pandora.xiaomi.com
@@ -4824,6 +4842,7 @@
 .analysis.yozocloud.cn
 .yrnv.cn
 .yrqwnc.cn
+.ad-material.ys7.com
 .log.ys7.com
 .ysjwj.com
 .ysont.cn
