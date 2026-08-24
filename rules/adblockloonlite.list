@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/08/24 16:34:59
-#!support=5071
+#!date=2026/08/25 00:22:21
+#!support=5058
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -786,7 +786,6 @@ DOMAIN-SUFFIX,sp2.baidu.com
 DOMAIN-SUFFIX,sp3.baidu.com
 DOMAIN-SUFFIX,stat.v.baidu.com
 DOMAIN-SUFFIX,static.tieba.baidu.com
-DOMAIN-SUFFIX,suggestion.baidu.com
 DOMAIN-SUFFIX,tcbox.baidu.com
 DOMAIN-SUFFIX,techain.baidu.com
 DOMAIN-SUFFIX,toolbar.baidu.com
@@ -1137,7 +1136,6 @@ DOMAIN-SUFFIX,logreport-global-dual.coolbcloud.com
 DOMAIN-SUFFIX,detaillog-global.coolccloud.com
 DOMAIN-SUFFIX,detaillog-global-dual.coolccloud.com
 DOMAIN-SUFFIX,logreport-global-dual.coolccloud.com
-DOMAIN-SUFFIX,weblogger-wss.coolccloud.com
 DOMAIN-SUFFIX,wslog-global-dual.coolccloud.com
 DOMAIN-SUFFIX,detaillog-global-dual.coolgcloud.com
 DOMAIN-SUFFIX,logreport-global-dual.coolgcloud.com
@@ -1168,7 +1166,6 @@ DOMAIN-SUFFIX,zhannei-dm.csdn.net
 DOMAIN-SUFFIX,kunpeng-sc.csdnimg.cn
 DOMAIN-SUFFIX,csjplatform.com
 DOMAIN-SUFFIX,ctags.cn
-DOMAIN-SUFFIX,ads-marketing-vivofs.vivo.com.cn.ctdns.cn
 DOMAIN-SUFFIX,doubleclick.ctfile.com
 DOMAIN-SUFFIX,ma-adx.ctrip.com
 DOMAIN-SUFFIX,u.ctrip.com
@@ -1209,7 +1206,6 @@ DOMAIN-SUFFIX,console.data4.net
 DOMAIN-SUFFIX,gate.datacaciques.com
 DOMAIN-SUFFIX,pv.datacaciques.com
 DOMAIN-SUFFIX,datamaster.com.cn
-DOMAIN-SUFFIX,matomo.datasanalytics.com
 DOMAIN-SUFFIX,jc1.dayfund.com.cn
 DOMAIN-SUFFIX,bun1.dayi.org.cn
 DOMAIN-SUFFIX,images.dayoo.com
@@ -1451,7 +1447,6 @@ DOMAIN-SUFFIX,well-aquamarine-psata8ej.edgeone.dev
 DOMAIN-SUFFIX,xminesserversaqwq.edgeone.dev
 DOMAIN-SUFFIX,ytterbic-amber-qilwigl2.edgeone.dev
 DOMAIN-SUFFIX,eexlgyn.cn
-DOMAIN-SUFFIX,eeyy.com
 DOMAIN-SUFFIX,efusc.com
 DOMAIN-SUFFIX,efxh.cn
 DOMAIN-SUFFIX,metrics.egencia.cn
@@ -2325,7 +2320,6 @@ DOMAIN-SUFFIX,jsmxkj.com
 DOMAIN-SUFFIX,jspcdn.cn
 DOMAIN-SUFFIX,fpb1.jsq886.com
 DOMAIN-SUFFIX,jszctech.com
-DOMAIN-SUFFIX,log.jtexpress.com.cn
 DOMAIN-SUFFIX,junshi8181.com
 DOMAIN-SUFFIX,y1.junshitt.com
 DOMAIN-SUFFIX,css.juqingba.cn
@@ -3010,7 +3004,6 @@ DOMAIN-SUFFIX,at-af.outfit7.com
 DOMAIN-SUFFIX,bidder.dsp.outfit7.com
 DOMAIN-SUFFIX,hb-af-us-central1.outfit7.com
 DOMAIN-SUFFIX,revive.outin.cn
-DOMAIN-SUFFIX,ouyaoxiazai.com
 DOMAIN-SUFFIX,overlay.top
 DOMAIN-SUFFIX,ovnrmvg.cn
 DOMAIN-SUFFIX,umami.oyo.cool
@@ -3074,7 +3067,6 @@ DOMAIN-SUFFIX,api.pingstart.com
 DOMAIN-SUFFIX,piorun-kapitura-pl.net
 DOMAIN-SUFFIX,piorunkapitura-ai.net
 DOMAIN-SUFFIX,bd1.pipaw.com
-DOMAIN-SUFFIX,stat2.pixpin.cn
 DOMAIN-SUFFIX,pl-wodranek.com
 DOMAIN-SUFFIX,pl53l7tyw.com
 DOMAIN-SUFFIX,placidocn.com
@@ -3686,7 +3678,6 @@ DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,mon.snssdk.com
 DOMAIN-SUFFIX,open.snssdk.com
 DOMAIN-SUFFIX,pangolin.snssdk.com
-DOMAIN-SUFFIX,pc-mon.snssdk.com
 DOMAIN-SUFFIX,stream.snssdk.com
 DOMAIN-SUFFIX,tbm.snssdk.com
 DOMAIN-SUFFIX,tnc3-aliec2.snssdk.com
@@ -3913,7 +3904,6 @@ DOMAIN-SUFFIX,tdlop7tsme.com
 DOMAIN-SUFFIX,log.tec73.com
 DOMAIN-SUFFIX,tongji.techweb.com.cn
 DOMAIN-SUFFIX,tecunonline.com
-DOMAIN-SUFFIX,data.tempersyi.com
 DOMAIN-SUFFIX,apd-pcdnvodstat.teg.tencent-cloud.net
 DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN-SUFFIX,apd-pcdnwxnat.teg.tencent-cloud.net
@@ -4283,7 +4273,6 @@ DOMAIN-SUFFIX,co-st-sl.vivoglobal.com
 DOMAIN-SUFFIX,co-vcode-api.vivoglobal.com
 DOMAIN-SUFFIX,co-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,de-gdpr-err-up.vivoglobal.com
-DOMAIN-SUFFIX,eu-album-api.vivoglobal.com
 DOMAIN-SUFFIX,eu-cota.vivoglobal.com
 DOMAIN-SUFFIX,eu-domaincfg.vivoglobal.com
 DOMAIN-SUFFIX,eu-errup.vivoglobal.com
@@ -4530,7 +4519,6 @@ DOMAIN-SUFFIX,push.wps.cn
 DOMAIN-SUFFIX,update.wps.cn
 DOMAIN-SUFFIX,wpsweb-dc.wps.cn
 DOMAIN-SUFFIX,api-ad-adapter.wps.com
-DOMAIN-SUFFIX,api-ad-adapter-mb.wps.com
 DOMAIN-SUFFIX,mo.res.wpscdn.cn
 DOMAIN-SUFFIX,abroadad.cache.wpscdn.com
 DOMAIN-SUFFIX,wpwpquse.cn
@@ -4737,7 +4725,6 @@ DOMAIN-SUFFIX,xyvorelintus-pl.net
 DOMAIN-SUFFIX,xyvorelintusai.com
 DOMAIN-SUFFIX,a.xywy.com
 DOMAIN-SUFFIX,bdmjs.xywy.com
-DOMAIN-SUFFIX,xznkjzx.cn
 DOMAIN-SUFFIX,xzswn87hm.com
 DOMAIN-SUFFIX,bmjs.xzw.com
 DOMAIN-SUFFIX,y0764.cn

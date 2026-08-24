@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20260824163459
-  # Last modified: 2026/08/24 16:34:59
-  # Blocked domains: 5071
+  # Version: 20260825002221
+  # Last modified: 2026/08/25 00:22:21
+  # Blocked domains: 5058
   #
   - '+.kwflvcdn.000dn.com'
   - '+.img.0279.net'
@@ -783,7 +783,6 @@ payload:
   - '+.sp3.baidu.com'
   - '+.stat.v.baidu.com'
   - '+.static.tieba.baidu.com'
-  - '+.suggestion.baidu.com'
   - '+.tcbox.baidu.com'
   - '+.techain.baidu.com'
   - '+.toolbar.baidu.com'
@@ -1134,7 +1133,6 @@ payload:
   - '+.detaillog-global.coolccloud.com'
   - '+.detaillog-global-dual.coolccloud.com'
   - '+.logreport-global-dual.coolccloud.com'
-  - '+.weblogger-wss.coolccloud.com'
   - '+.wslog-global-dual.coolccloud.com'
   - '+.detaillog-global-dual.coolgcloud.com'
   - '+.logreport-global-dual.coolgcloud.com'
@@ -1165,7 +1163,6 @@ payload:
   - '+.kunpeng-sc.csdnimg.cn'
   - '+.csjplatform.com'
   - '+.ctags.cn'
-  - '+.ads-marketing-vivofs.vivo.com.cn.ctdns.cn'
   - '+.doubleclick.ctfile.com'
   - '+.ma-adx.ctrip.com'
   - '+.u.ctrip.com'
@@ -1206,7 +1203,6 @@ payload:
   - '+.gate.datacaciques.com'
   - '+.pv.datacaciques.com'
   - '+.datamaster.com.cn'
-  - '+.matomo.datasanalytics.com'
   - '+.jc1.dayfund.com.cn'
   - '+.bun1.dayi.org.cn'
   - '+.images.dayoo.com'
@@ -1448,7 +1444,6 @@ payload:
   - '+.xminesserversaqwq.edgeone.dev'
   - '+.ytterbic-amber-qilwigl2.edgeone.dev'
   - '+.eexlgyn.cn'
-  - '+.eeyy.com'
   - '+.efusc.com'
   - '+.efxh.cn'
   - '+.metrics.egencia.cn'
@@ -2322,7 +2317,6 @@ payload:
   - '+.jspcdn.cn'
   - '+.fpb1.jsq886.com'
   - '+.jszctech.com'
-  - '+.log.jtexpress.com.cn'
   - '+.junshi8181.com'
   - '+.y1.junshitt.com'
   - '+.css.juqingba.cn'
@@ -3007,7 +3001,6 @@ payload:
   - '+.bidder.dsp.outfit7.com'
   - '+.hb-af-us-central1.outfit7.com'
   - '+.revive.outin.cn'
-  - '+.ouyaoxiazai.com'
   - '+.overlay.top'
   - '+.ovnrmvg.cn'
   - '+.umami.oyo.cool'
@@ -3071,7 +3064,6 @@ payload:
   - '+.piorun-kapitura-pl.net'
   - '+.piorunkapitura-ai.net'
   - '+.bd1.pipaw.com'
-  - '+.stat2.pixpin.cn'
   - '+.pl-wodranek.com'
   - '+.pl53l7tyw.com'
   - '+.placidocn.com'
@@ -3683,7 +3675,6 @@ payload:
   - '+.mon.snssdk.com'
   - '+.open.snssdk.com'
   - '+.pangolin.snssdk.com'
-  - '+.pc-mon.snssdk.com'
   - '+.stream.snssdk.com'
   - '+.tbm.snssdk.com'
   - '+.tnc3-aliec2.snssdk.com'
@@ -3910,7 +3901,6 @@ payload:
   - '+.log.tec73.com'
   - '+.tongji.techweb.com.cn'
   - '+.tecunonline.com'
-  - '+.data.tempersyi.com'
   - '+.apd-pcdnvodstat.teg.tencent-cloud.net'
   - '+.apd-pcdnwxlogin.teg.tencent-cloud.net'
   - '+.apd-pcdnwxnat.teg.tencent-cloud.net'
@@ -4280,7 +4270,6 @@ payload:
   - '+.co-vcode-api.vivoglobal.com'
   - '+.co-vcode-od.vivoglobal.com'
   - '+.de-gdpr-err-up.vivoglobal.com'
-  - '+.eu-album-api.vivoglobal.com'
   - '+.eu-cota.vivoglobal.com'
   - '+.eu-domaincfg.vivoglobal.com'
   - '+.eu-errup.vivoglobal.com'
@@ -4527,7 +4516,6 @@ payload:
   - '+.update.wps.cn'
   - '+.wpsweb-dc.wps.cn'
   - '+.api-ad-adapter.wps.com'
-  - '+.api-ad-adapter-mb.wps.com'
   - '+.mo.res.wpscdn.cn'
   - '+.abroadad.cache.wpscdn.com'
   - '+.wpwpquse.cn'
@@ -4734,7 +4722,6 @@ payload:
   - '+.xyvorelintusai.com'
   - '+.a.xywy.com'
   - '+.bdmjs.xywy.com'
-  - '+.xznkjzx.cn'
   - '+.xzswn87hm.com'
   - '+.bmjs.xzw.com'
   - '+.y0764.cn'
