@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260825083315
-# Last modified: 2026/08/25 08:33:15
-# Blocked domains: 5058
+# Version: 20260825162810
+# Last modified: 2026/08/25 16:28:10
+# Blocked domains: 5073
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -161,6 +161,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	c.sayhi.360.cn
 0.0.0.0	care.help.360.cn
 0.0.0.0	dd.browser.360.cn
+0.0.0.0	h5.mse.360.cn
 0.0.0.0	hao.360.cn
 0.0.0.0	lianmeng.360.cn
 0.0.0.0	mclean.f.360.cn
@@ -171,7 +172,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pscan.f.360.cn
 0.0.0.0	pub.se.360.cn
 0.0.0.0	qurl.f.360.cn
-0.0.0.0	s.360.cn
 0.0.0.0	s.f.360.cn
 0.0.0.0	soft.data.weather.360.cn
 0.0.0.0	stat.m.360.cn
@@ -931,6 +931,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dlogs.bwton.com
 0.0.0.0	bxsnews.com
 0.0.0.0	bxwccii.cn
+0.0.0.0	bykj.com.cn
 0.0.0.0	byscy.cn
 0.0.0.0	dm.bytedance.com
 0.0.0.0	mssdk.bytedance.com
@@ -976,6 +977,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	adv.ccb.com
 0.0.0.0	ad.ccement.com
 0.0.0.0	cchytech.com
+0.0.0.0	btrace.ysp.cctv.cn
 0.0.0.0	mtrace.ysp.cctv.cn
 0.0.0.0	ad.cctv.com
 0.0.0.0	httpdns.cctv.com
@@ -1440,16 +1442,19 @@ ff02::3	ip6-allhosts
 0.0.0.0	d7522e2c-c5f7-4dc8-b83f-9f9dacd15c4d.edgeone.dev
 0.0.0.0	doc-fcms.edgeone.dev
 0.0.0.0	ffsre-dpzou3ijaxzb.edgeone.dev
+0.0.0.0	htmlbddhjghtnkcgjjhhjdhtml-dpptwqylzrhe.edgeone.dev
 0.0.0.0	icy-brown-yrznyes4.edgeone.dev
 0.0.0.0	intellectual-property-center.edgeone.dev
 0.0.0.0	intellectual-property-troubleshooting-center.edgeone.dev
 0.0.0.0	khjfdgsfsdfhjklljdhgdstryt-dp97141gwv85.edgeone.dev
 0.0.0.0	loginpages0000-dpf0869el7ik.edgeone.dev
+0.0.0.0	musical-octo-robot-dptlf6z6tv2g.edgeone.dev
 0.0.0.0	no2body7-dpyijatuyl2q.edgeone.dev
 0.0.0.0	profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0	request-copyright-policy-review.edgeone.dev
 0.0.0.0	review-copyright-infringement-reports.edgeone.dev
 0.0.0.0	review-copyright-policy-violations.edgeone.dev
+0.0.0.0	right-copper-xkzqbqnk.edgeone.dev
 0.0.0.0	srvkdtsged5w23456ds-dplleb90jz3x.edgeone.dev
 0.0.0.0	symmetrical-octo-umbrella-dpfq8j6ozudi.edgeone.dev
 0.0.0.0	troubleshoot-copyright-policy-violations.edgeone.dev
@@ -1500,6 +1505,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ad.exyws.org
 0.0.0.0	veepai-device-log.eye4.cn
 0.0.0.0	eyp7uowejx.com
+0.0.0.0	fakjkwp.cn
 0.0.0.0	z2.fakutownee.cn
 0.0.0.0	falal.cn
 0.0.0.0	k6d.falang.net
@@ -1541,6 +1547,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	21.fh21static.com
 0.0.0.0	fhitagd.cn
 0.0.0.0	fighter-shop.shop
+0.0.0.0	fileh.xyz
 0.0.0.0	filei.top
 0.0.0.0	fileshider.com
 0.0.0.0	api.firwinds.site
@@ -2034,6 +2041,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	h5.hpplay.com.cn
 0.0.0.0	leboapi.hpplay.com.cn
 0.0.0.0	support.hqts.com
+0.0.0.0	hseda.com
 0.0.0.0	hsrgnac.cn
 0.0.0.0	g.hsw.cn
 0.0.0.0	hsych.com
@@ -3422,6 +3430,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	v5-se-bjtc-reading-ad.qznovelvod.com
 0.0.0.0	v5-se-ex-mc-reading-ad.qznovelvod.com
 0.0.0.0	v5-se-gddgtc-reading-ad.qznovelvod.com
+0.0.0.0	v5-se-jltc-reading-ad.qznovelvod.com
 0.0.0.0	v5-se-sjy-daily-reading-ad.qznovelvod.com
 0.0.0.0	v5-se2-yz-reading-ad.qznovelvod.com
 0.0.0.0	v6-daily-reading-ad.qznovelvod.com
@@ -3429,6 +3438,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	v9-reading-ad.qznovelvod.com
 0.0.0.0	v95-aw-reading-ad.qznovelvod.com
 0.0.0.0	v95-se-zjwztc-reading-ad.qznovelvod.com
+0.0.0.0	v95-ynkmtc-reading-ad.qznovelvod.com
 0.0.0.0	v95-zjjx2tc-reading-ad.qznovelvod.com
 0.0.0.0	v96-reading-ad.qznovelvod.com
 0.0.0.0	v96-sz-daily-reading-ad.qznovelvod.com
@@ -3686,6 +3696,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	log-lf.snssdk.com
 0.0.0.0	log-lq.snssdk.com
 0.0.0.0	mcs.snssdk.com
+0.0.0.0	mercury-sdk.snssdk.com
 0.0.0.0	mon.snssdk.com
 0.0.0.0	open.snssdk.com
 0.0.0.0	pangolin.snssdk.com
@@ -3765,6 +3776,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	show.ssports.com
 0.0.0.0	3.ssqzj.com
 0.0.0.0	sssxwsry.com
+0.0.0.0	start-binance.com.cn
 0.0.0.0	static-cloudflare.workers.dev
 0.0.0.0	staticfile.net
 0.0.0.0	staticfile.org
@@ -3850,7 +3862,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ae-alimelog.taobao.com
 0.0.0.0	agoodm.m.taobao.com
 0.0.0.0	ai.m.taobao.com
-0.0.0.0	alimelog.taobao.com
 0.0.0.0	amdcopen.m.taobao.com
 0.0.0.0	audid-api.taobao.com
 0.0.0.0	audid-api-sg.taobao.com
@@ -4279,8 +4290,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	cname-in-bom01-nginxpool03.vivoglobal.com
 0.0.0.0	cname-in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0	cname-sin01-stsdk09.vivoglobal.com
+0.0.0.0	co-domaincfg.vivoglobal.com
 0.0.0.0	co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0	co-st-sl.vivoglobal.com
+0.0.0.0	co-timesync.vivoglobal.com
 0.0.0.0	co-vcode-api.vivoglobal.com
 0.0.0.0	co-vcode-od.vivoglobal.com
 0.0.0.0	de-gdpr-err-up.vivoglobal.com
@@ -4433,6 +4446,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	w8.com.cn
 0.0.0.0	w97nv5ibv4.com
 0.0.0.0	tongdun-fingerprint.walmartmobile.cn
+0.0.0.0	analytics.med.wanfangdata.com.cn
 0.0.0.0	medad.med.wanfangdata.com.cn
 0.0.0.0	mlog.wangsu.com
 0.0.0.0	analytics.wanmei.com
@@ -4537,6 +4551,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ad.12306.cn.wscdns.com
 0.0.0.0	analytics.95516.com.wscdns.com
 0.0.0.0	wsds.cn
+0.0.0.0	mlog.wangsu.com.wswebcdn.com
 0.0.0.0	cdn-ad.wtzw.com
 0.0.0.0	wukongtongji.com
 0.0.0.0	wumii.cn
@@ -4558,8 +4573,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	pv.xcar.com.cn
 0.0.0.0	pvx.xcar.com.cn
 0.0.0.0	zio.xcar.com.cn
+0.0.0.0	analytics.xdiarys.com
 0.0.0.0	xdrig.com
-0.0.0.0	sensors.h5.xed.plus
 0.0.0.0	xegnfwkju.com
 0.0.0.0	xerhibx.cn
 0.0.0.0	dt.xfyun.cn
