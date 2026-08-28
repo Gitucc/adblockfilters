@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260828022832
-# Last modified: 2026/08/28 02:28:32
-# Blocked domains: 5027
+# Version: 20260828152307
+# Last modified: 2026/08/28 15:23:07
+# Blocked domains: 5012
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -442,13 +442,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	ahov1.top
 0.0.0.0	ai-fiversity.com
 0.0.0.0	ai-polarisx.com
-0.0.0.0	ai-proinvest-polska.com
 0.0.0.0	aifiversity.com
 0.0.0.0	brc.aigrammar.net
 0.0.0.0	brc2.aigrammar.net
 0.0.0.0	atiws.aipai.com
 0.0.0.0	mlog.aipai.com
-0.0.0.0	aiproinvestpolska.net
 0.0.0.0	metrics.airasia.com
 0.0.0.0	smetrics.airasia.com
 0.0.0.0	t.airasia.com
@@ -864,8 +862,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	smetrics.beatsbydre.com.cn
 0.0.0.0	beizi.biz
 0.0.0.0	smetrics.benefitcosmetics.com.cn
-0.0.0.0	bervonik-ai.com
-0.0.0.0	bervonik.net
 0.0.0.0	betylife.com
 0.0.0.0	a.bfking.cn
 0.0.0.0	bfshan.cn
@@ -1418,7 +1414,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ecudsc.cn
 0.0.0.0	webmail-updateupcoming-com-dp7cp80id24e.zh-cn.edgeone.cool
 0.0.0.0	00bfd200-dpnb2uqcmx3g.edgeone.dev
-0.0.0.0	05gdfi007-dpm2gawaoxpl.edgeone.dev
 0.0.0.0	098yjuio-dpwxvxwxcuwy.edgeone.dev
 0.0.0.0	alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev
 0.0.0.0	balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
@@ -1447,7 +1442,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	review-copyright-policy-violations.edgeone.dev
 0.0.0.0	right-copper-xkzqbqnk.edgeone.dev
 0.0.0.0	srvkdtsged5w23456ds-dplleb90jz3x.edgeone.dev
-0.0.0.0	symmetrical-octo-umbrella-dpfq8j6ozudi.edgeone.dev
 0.0.0.0	troubleshoot-copyright-policy-violations.edgeone.dev
 0.0.0.0	upgrade-dp2c1xqj8ejo.edgeone.dev
 0.0.0.0	xminesserversaqwq.edgeone.dev
@@ -3074,7 +3068,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pmvlwjy.cn
 0.0.0.0	1.pncdn.cn
 0.0.0.0	100.pncdn.cn
-0.0.0.0	podstcrednex-ai.com
 0.0.0.0	dluat.pokerbros.net
 0.0.0.0	i.pokerbros.net
 0.0.0.0	polarisx-ai.com
@@ -3105,10 +3098,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	prdohgp.cn
 0.0.0.0	prlioxb.cn
 0.0.0.0	pro-invest-polska.net
-0.0.0.0	pro-investpolska.com
-0.0.0.0	proinvest-pl.com
 0.0.0.0	proinvest-polska.net
-0.0.0.0	proinvestai.net
 0.0.0.0	proinvestpolska-ai.com
 0.0.0.0	info.protiviti.com.cn
 0.0.0.0	dm.pstatp.com
@@ -3795,7 +3785,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	mxana.tacool.com
 0.0.0.0	tagmanager.cn
 0.0.0.0	tagtic.cn
-0.0.0.0	en.taichuan.com
 0.0.0.0	takjttz.cn
 0.0.0.0	talk99.cn
 0.0.0.0	talkingdata.com
@@ -3960,7 +3949,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ip.tianqiapi.com
 0.0.0.0	datas.tianqistatic.com
 0.0.0.0	yptqys.tianqistatic.com
-0.0.0.0	fz.tiansys.cn
 0.0.0.0	www.tiexing.com
 0.0.0.0	smetrics.tiffany.cn
 0.0.0.0	tikz.cn
@@ -4655,7 +4643,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tongji.xinmin.cn
 0.0.0.0	hi.xiunm.cn
 0.0.0.0	xiyouence.com
-0.0.0.0	dhlpaketzustellung.xjili99.vip
 0.0.0.0	xjl2ts2q6a.com
 0.0.0.0	xkmwxwy.cn
 0.0.0.0	pcdn.xmcdn.com
@@ -4897,8 +4884,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	p3.zbjimg.com
 0.0.0.0	xue.zbyw.cn
 0.0.0.0	log.zcool.com.cn
-0.0.0.0	zeldrunek-pl.com
-0.0.0.0	zelorprimeai.com
 0.0.0.0	api-analytics.zepp.com
 0.0.0.0	api-analytics-cn3.zepp.com
 0.0.0.0	api-analytics-de.zepp.com
