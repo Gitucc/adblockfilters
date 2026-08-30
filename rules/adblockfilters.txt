@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260830025824
-! Last modified: 2026/08/30 02:58:24
-! Blocked Filters: 106828
+! Version: 20260830100400
+! Last modified: 2026/08/30 10:04:00
+! Blocked Filters: 106829
 !
 ###AC_ad
 ###AD_160
@@ -68596,6 +68596,7 @@ outlook.live.com##.VdboX[tabindex="0"]:has(img[src="https://res.cdn.office.net/a
 outlook.live.com##._BAY1XlyQSIe6kyKPlYP
 outlook.live.com##.__Microsoft_Owa_MessageListAds_ListView_templates_cs_x
 outlook.live.com##[data-app-section="MessageList"] div[style^="position: absolute; left: 0px; top: 0px"]:has(.ms-Shimmer-container)
+outlook.live.com##[data-message-ad-id="MessageAdKeyOutlookUpSell0"]
 outlook.live.com##div.customScrollBar > div > div[id][class]:has(img[src$="/images/ads-olk-icon.png"])
 outlook.live.com##div:has(> div > div.fbAdLink)
 outlook.live.com##div[data-app-section="MessageList"] > div.customScrollBar > div > div:has(> div > div > div > div > div > div > div > div.ms-Shimmer-container)
