@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260904201946
-! Last modified: 2026/09/04 20:19:46
-! Blocked domains: 4980
+! Version: 20260905023914
+! Last modified: 2026/09/05 02:39:14
+! Blocked domains: 4967
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -604,7 +604,6 @@ st.appsad.cn
 appsdt.com
 tracking.apptrackerlink.com
 aq0vs4ftni.com
-pay.aqiu6.com
 tr.email.archiexpo.com
 a.armystar.com
 trk.arozone.cn
@@ -925,7 +924,6 @@ p9-ad-sign.byteimg.com
 s.c-ctrip.com
 c4d4.cn
 caduka.cn
-download.caihong.com
 gg.caixin.com
 ad.caiyunapp.com
 smetrics.calvinklein.cn
@@ -1283,7 +1281,6 @@ beacon.cdn.qq.com.cdn.dnsv1.com
 stats-cdn.polyspeak.ai.cdn.dnsv1.com
 dnyzbp.cn
 do-global.com
-dobra-aktywolnia-pl.com
 dobraaktywolnia-ai.com
 zx.docin.com
 doglobal.net
@@ -1322,7 +1319,6 @@ rtbapi.douyucdn.cn
 stun.douyucdn.cn
 stun1.douyucdn.cn
 dotcounter.douyutv.com
-download-sougou.com.cn
 dpjzzgw.cn
 drdwy.com
 drivethelife.com
@@ -1392,7 +1388,6 @@ webmail-updateupcoming-com-dp7cp80id24e.zh-cn.edgeone.cool
 098yjuio-dpwxvxwxcuwy.edgeone.dev
 arrogant-magenta-2yqmtzc8.edgeone.dev
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-cloudsrvjk876nj987-dp1lu5k2i9vz.edgeone.dev
 combined-silver-0x5s9uu5.edgeone.dev
 copyright-claim-review-request-form.edgeone.dev
 copyright-policy-troubleshooting-request-form.edgeone.dev
@@ -1507,7 +1502,6 @@ img.ferlie.net
 ks.ferlytc.com
 21.fh21static.com
 fhitagd.cn
-fighter-shop.shop
 fighterfan.shop
 filar-zwrotelin.com
 fileh.xyz
@@ -2345,7 +2339,6 @@ kxlogo.knet.cn
 ss.knet.cn
 knie8wmsk.com
 knliylh.cn
-www.knockknock.top
 ofkqiy.knowfashionstyle.com
 knowsafe.com
 koebpmhcce.com
@@ -3308,7 +3301,6 @@ yun-hl.3g.qq.com
 dns.weixin.qq.com.cn
 wxaintpcos.wxqcloud.qq.com.cn
 qq2tdd0xx.com
-down.qqfarmer.com.cn
 sdk-ab-config.qquanquan.com
 tracelog-debug.qquanquan.com
 f.qstatic.com
@@ -3402,7 +3394,6 @@ www2.info.renesas.cn
 ebp.renren.com
 jebe.renren.com
 renzhen8.cn
-resevpl.shop
 api.revenuads.com
 info.revvity.cn
 track.msadcenter.rfjq.com
@@ -3438,7 +3429,6 @@ rvbztg.cn
 rvzlobj.cn
 rxys.cn
 ryd626moj.com
-rytm-inwestek.com
 rytm-inwestek.net
 rz261.cn
 s0p6s02x28.com
@@ -3917,7 +3907,6 @@ tianmu.mobi
 ip.tianqiapi.com
 datas.tianqistatic.com
 yptqys.tianqistatic.com
-fz.tiansys.cn
 tiexing.com
 smetrics.tiffany.cn
 tikz.cn
@@ -4127,7 +4116,6 @@ vaeth.cn
 vamaker.com
 collect.vans.com.cn
 sea-log-rcv.vansound.com
-vartomir-pl.com
 vbc08100op.com
 vbc08101op.com
 log.vcgame.cn
@@ -4957,7 +4945,6 @@ ydjs.zol.com.cn
 adm.zookingsoft.com
 zoosnet.net
 zoossoft.net
-zorza-rentura.com
 zowralr.cn
 zqmhl8lgj.com
 zsjxwj.com
