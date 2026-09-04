@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/09/04 09:42:37
-#!support=4955
+#!date=2026/09/04 20:19:46
+#!support=4980
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -125,6 +125,7 @@
 .bd-retrieval1.2345.com
 .bdcode.2345.com
 .ggcode.2345.com
+.jifen.2345.com
 .25662zubo23739.com
 .25t9uxgnx.com
 .2607.cn
@@ -161,6 +162,7 @@
 .pscan.f.360.cn
 .pub.se.360.cn
 .qurl.f.360.cn
+.s.360.cn
 .s.f.360.cn
 .soft.data.weather.360.cn
 .stat.m.360.cn
@@ -228,6 +230,8 @@
 .logs.51cto.com
 .trace.51jingying.com
 .scdata.51job.com
+.51link.com
+.51mitu.com
 .a1.51shiti.cn
 .51taifu.com
 .r.51wnl-cq.com
@@ -329,6 +333,7 @@
 .rdm.91yunma.cn
 .92p3c8lgqt.com
 .93692zubo66936.com
+.93ta.cn
 .93txjw4rt2.com
 .ads.95516.com
 .analytics.95516.com
@@ -802,7 +807,6 @@
 .baifendian.com
 .ad.baihemob.com
 .pic.baihuawen.cn
-.baihuwang.com
 .baixing.com
 .bd-s.baixing.net
 .script-bd.baixing.net
@@ -962,6 +966,7 @@
 .ads5-normal.zijieapi.com.c.dsa.cdnbuild.net
 .tracker.cdnbye.com
 .ads-img-al.xhscdn.com.w.cdngslb.com
+.ads-video-al.xhscdn.com.w.cdngslb.com
 .ads3-normal-hl.zijieapi.com.w.cdngslb.com
 .ads3-normal-lf.zijieapi.com.w.cdngslb.com
 .ads3-normal-lq.zijieapi.com.w.cdngslb.com
@@ -1020,6 +1025,7 @@
 .a2put.chinaz.com
 .stats.chinaz.com
 .chiq-cloud.com
+.chixiatech.com
 .cholo215.cn
 .chshcms.net
 .config.chsmarttv.com
@@ -1297,6 +1303,7 @@
 .ap.dongqiudi.com
 .sensors-log.dongqiudi.com
 .stat.dongqiudi.com
+.dopa.com
 .monitor-web.dotfashion.cn
 .doubleclick-cn.net
 .doubleclick.net
@@ -1335,6 +1342,7 @@
 .duapps.com
 .bu1.duba.com
 .img.dubyc.com
+.kui.dui88.com
 .picture.duokan.com
 .fm.duokanbox.com
 .stat.duokanbox.com
@@ -1381,6 +1389,7 @@
 .emdcadvertise.eastmoney.com
 .huaxiang.eastmoney.com
 .same.eastmoney.com
+.easyrecoverychina.com
 .easytomessage.com
 .eblnzoq.cn
 .ebrid.cn
@@ -1804,6 +1813,7 @@
 .img-c.heytapimage.com
 .ums-rum-cn.heytapimage.com
 .ums-rum-global.heytapimage.com
+.adm-smc-cn.heytapmobi.com
 .adx-f.ads.heytapmobi.com
 .adx-id.ads.heytapmobi.com
 .adx-in.ads.heytapmobi.com
@@ -2240,6 +2250,7 @@
 .jesgoo.com
 .promotion-quicker.jftechsoft.com
 .jgid.cn
+.jhzfwl.cn
 .wj.jiancai365.cn
 .ads.jianchiapp.com
 .acc.jiangsujiaxue.com
@@ -2253,6 +2264,7 @@
 .api.jietuhb.com
 .jiezoiq.cn
 .jiguang.cn
+.ad.open.api.jihuoniao.com
 .target.ads.jihuoniao.com
 .wuliao.jingyanben.com
 .adx-api.jinmo.tech
@@ -2518,6 +2530,7 @@
 .o.lenovo.com
 .s.lenovo.com
 .fsr.lenovomm.com
+.prw.lenovomm.com
 .pushapi.lenovomm.com
 .susapi.lenovomm.com
 .uss-pid.lenovomm.com
@@ -2545,6 +2558,7 @@
 .lichunxiao.cn
 .liebaovip.com
 .lieying.cn
+.lingd.cn
 .ads.linkedin.cn
 .linkhaitao.com
 .litchiads.com
@@ -2784,6 +2798,7 @@
 .api.mobcells.com
 .mobgi.com
 .ent.mobileanjian.com
+.www.mobilephonelocator.net
 .mobisage.cn
 .mobvista.com
 .bd1.moguvet.com
@@ -3116,6 +3131,7 @@
 .kf.qingwk.com
 .log.qiniuapi.com
 .kbae.qiqqh.cn
+.qishui-vip.com.cn
 .stats.qiumibao.com
 .webstat.qiumibao.com
 .m.qiuwu.net
@@ -3216,7 +3232,6 @@
 .oimsgad.qq.com
 .omgid.qq.com
 .omgmta1.qq.com
-.openapi.guanjia.qq.com
 .oth.str.mdt.qq.com
 .p2p.qq.com
 .p2pupdate.gamedl.qq.com
@@ -3285,6 +3300,7 @@
 .vlive.qqvideo.tc.qq.com
 .vpic.video.qq.com
 .w.inews.qq.com
+.wetelemetry.weixin.qq.com
 .ws.sj.qq.com
 .wup.imtt.qq.com
 .wxa.wxs.qq.com
@@ -3481,6 +3497,7 @@
 .w88.shanghaidisneyresort.com.cn
 .api.shanghailingye.cn
 .js.shangxueba.com
+.shanhulan.cn
 .shanhutech.cn
 .sc.shayugg.com
 .link.shengcekeji.com
@@ -3573,7 +3590,6 @@
 .1.sj33.net
 .sjoy7rq.cn
 .skfqxkk.cn
-.sm-tc.cn
 .c.sm.cn
 .hc-ssp.sm.cn
 .huichuan.sm.cn
@@ -4114,6 +4130,7 @@
 .www.v61.com
 .v84tz11w7.com
 .va3yq7si6w.com
+.vaeth.cn
 .vamaker.com
 .collect.vans.com.cn
 .sea-log-rcv.vansound.com
@@ -4276,6 +4293,7 @@
 .ru-err-up.vivoglobal.com
 .ru-exstsdk.vivoglobal.com
 .ru-onrt-stsdk.vivoglobal.com
+.ru-os-config-appstore.vivoglobal.com
 .ru-p.vivoglobal.com
 .ru-romsp-unifyconfig.vivoglobal.com
 .ru-st-exappupgrade.vivoglobal.com
@@ -4323,6 +4341,7 @@
 .vodone.com
 .mini-prog-drm.vodplayvideo.net
 .voiceads.cn
+.dev.voicecloud.cn
 .log.voicecloud.cn
 .httpdns.volcengineapi.com
 .apmplus.ap-southeast-1.volces.com
@@ -4390,6 +4409,7 @@
 .widget.weibo.com
 .api-z.weidian.com
 .logtake.weidian.com
+.www.weidianyuedu.com
 .1.weiheshidai.com
 .badjs.weixinbridge.com
 .code.wenbanzhu.com
@@ -4439,6 +4459,7 @@
 .update.wps.cn
 .wpsweb-dc.wps.cn
 .api-ad-adapter.wps.com
+.api-ad-adapter-mb.wps.com
 .mo.res.wpscdn.cn
 .abroadad.cache.wpscdn.com
 .wpwpquse.cn
@@ -4468,6 +4489,7 @@
 .pvx.xcar.com.cn
 .zio.xcar.com.cn
 .analytics.xdiarys.com
+.analytics2.xdiarys.com
 .xdrig.com
 .xegnfwkju.com
 .xerhibx.cn
@@ -4495,6 +4517,7 @@
 .xianshangzixun.com
 .xianshangzixun.net
 .xianzhice.com
+.xiaobaixitong.com
 .xiaodongrui.com
 .adx.xiaodutv.com
 .nsclickvideo.xiaodutv.com
@@ -4884,6 +4907,7 @@
 .gecko5-lf.zijieapi.com
 .log.zijieapi.com
 .log-klink.zijieapi.com
+.log5-applog-hl.zijieapi.com
 .log5-applog-lf.zijieapi.com
 .mcs.zijieapi.com
 .minigame5-normal-hl.zijieapi.com
@@ -4964,6 +4988,7 @@
 .zykwnj.cn
 .zyskonex-ai.com
 .zyskonex-pl.com
+.zyxyfy.com
 .zzrcz.com
 .cfgc.zztfly.com
 .log-auth.zztfly.com
