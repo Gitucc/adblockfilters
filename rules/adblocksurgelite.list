@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/09/06 09:37:15
-#!support=4978
+#!date=2026/09/06 19:48:06
+#!support=4987
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -163,7 +163,6 @@
 .pscan.f.360.cn
 .pub.se.360.cn
 .qurl.f.360.cn
-.s.360.cn
 .s.f.360.cn
 .soft.data.weather.360.cn
 .stat.m.360.cn
@@ -547,6 +546,7 @@
 .kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 .logtail-release.oss-cn-hangzhou.aliyuncs.com
 .mobantong.oss-cn-hangzhou.aliyuncs.com
+.o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 .retcode-sg-lazada.arms.aliyuncs.com
 .shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 .star-seo.oss-ap-northeast-1.aliyuncs.com
@@ -957,6 +957,7 @@
 .cbhzxctgm.com
 .adv.ccb.com
 .ad.ccement.com
+.mtrace.ysp.cctv.cn
 .ad.cctv.com
 .httpdns.cctv.com
 .p.data.cctv.com
@@ -983,7 +984,6 @@
 .httpdns.c.cdnhwc2.com
 .httpdns1.cc.cdnhwc5.com
 .p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
-.ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com
 .ad.cdnjm.cn
 .syh-imp.cdnjtzy.com
 .cdnmaster.cn
@@ -1074,6 +1074,7 @@
 .log1.cmpassport.com
 .log2.cmpassport.com
 .cmpxaup.cn
+.ggc.cmvideo.cn
 .ggx.cmvideo.cn
 .ad-api.cnblogs.com
 .analytics.cnblogs.com
@@ -1105,8 +1106,6 @@
 .log-eap-sg.coloros.com
 .moa-upload-online.coloros.com
 .smartcard.apps.coloros.com
-.smartcardf-eu.apps.coloros.com
-.smartcardf.apps.coloros.com
 .iadcontent-lb.apple.com.akadns.net
 .iadsdk.apple.com.akadns.net
 .trk.compair.com.cn
@@ -1192,7 +1191,6 @@
 .gate.datacaciques.com
 .pv.datacaciques.com
 .datamaster.com.cn
-.matomo.datasanalytics.com
 .jc1.dayfund.com.cn
 .bun1.dayi.org.cn
 .images.dayoo.com
@@ -1291,8 +1289,8 @@
 .metrics-picture.dreport.meituan.net.eo.dnse1.com
 .tracking.ksztone.com.eo.dnse2.com
 .posthog.casinoplus.top.eo.dnse3.com
+.ads-i1.xhscdn.com.cdn.dnsv1.com
 .beacon.cdn.qq.com.cdn.dnsv1.com
-.stats-cdn.polyspeak.ai.cdn.dnsv1.com
 .dnyzbp.cn
 .do-global.com
 .dobraaktywolnia-ai.com
@@ -1847,6 +1845,7 @@
 .dc-dragate-cn.heytapmobi.com
 .dcc-awareness-cn.heytapmobi.com
 .dragate-sg.dc.heytapmobi.com
+.epoch-id.cdo.heytapmobi.com
 .httpdns.ocloud.heytapmobi.com
 .i-sg01a.ocloud.heytapmobi.com
 .iot-earbuds-cn.heytapmobi.com
@@ -2106,6 +2105,7 @@
 .seeder.igetget.com
 .igexin.com
 .ihclam.cn
+.appadapi.ihuman.com
 .iimedia.cn
 .ijinshan.com
 .daima.ijq.tv
@@ -2146,6 +2146,7 @@
 .dogo.intel.cn
 .intely.cn
 .smetrics.marketing.interact-lighting.com.cn
+.ads.inteyun.cn
 .inveno.com
 .ioiksw.cn
 .c81.ipanocloud.com
@@ -2711,6 +2712,7 @@
 .ggx03.miguvideo.com
 .ggxwb.miguvideo.com
 .v.miguvideo.com
+.abtest-api-data.mihoyo.com
 .ad-log-upload.mihoyo.com
 .apm-api.mihoyo.com
 .apm-log-upload.mihoyo.com
@@ -3375,6 +3377,7 @@
 .v5-ex-reading-ad.qznovelvod.com
 .v5-reading-ad.qznovelvod.com
 .v5-se-ex-mc-reading-ad.qznovelvod.com
+.v5-se-gddgtc-reading-ad.qznovelvod.com
 .v5-se-sjy-daily-reading-ad.qznovelvod.com
 .v6-daily-reading-ad.qznovelvod.com
 .v6-reading-ad.qznovelvod.com
@@ -3840,6 +3843,8 @@
 .strip.taobaocdn.com
 .taojike.com.cn
 .gg.taoseyy.cn
+.img.taotaosou.cn
+.img01.taotaosou.cn
 .qw2v.taoxiehui.cn
 .gid.tapapis.cn
 .openlog.tapapis.cn
@@ -3914,7 +3919,6 @@
 .thinkingdata.cn
 .trk.thomas-pump.cn
 .trail.thomsonreuters.cn
-.ad.thsi.cn
 .tracking.mail.ti.com.cn
 .tianjimedia.com
 .tianmidian.com
@@ -4215,6 +4219,7 @@
 .cname-sin01-stsdk09.vivoglobal.com
 .co-romsp-unifyconfig.vivoglobal.com
 .co-st-sl.vivoglobal.com
+.co-timesync.vivoglobal.com
 .co-vcode-api.vivoglobal.com
 .co-vcode-od.vivoglobal.com
 .de-gdpr-err-up.vivoglobal.com
@@ -4308,6 +4313,7 @@
 .tr-p.vivoglobal.com
 .tr-romsp-unifyconfig.vivoglobal.com
 .tr-st-sl.vivoglobal.com
+.tr-stsdk.vivoglobal.com
 .tr-timesync.vivoglobal.com
 .tr-vcode-api.vivoglobal.com
 .tr-vcode-od.vivoglobal.com
@@ -4485,7 +4491,6 @@
 .pv.xcar.com.cn
 .pvx.xcar.com.cn
 .zio.xcar.com.cn
-.analytics.xdiarys.com
 .xdrig.com
 .xegnfwkju.com
 .xerhibx.cn
@@ -4700,6 +4705,7 @@
 .yijifen.com
 .yijirecovery.com
 .data-track.yingxiong.com
+.data-track-global.yingxiong.com
 .yingyankantu.com
 .log.yinshantech.cn
 .analytics.yinxiang.com
@@ -4924,9 +4930,12 @@
 .os-mon.zijieapi.com
 .pc-mon.zijieapi.com
 .polaris.zijieapi.com
+.polaris3-normal-gl2.zijieapi.com
 .polaris3-normal-hl.zijieapi.com
 .polaris3-normal-lf.zijieapi.com
 .polaris3-normal-lq.zijieapi.com
+.polaris3-normal-xh.zijieapi.com
+.polaris3-normal-zb.zijieapi.com
 .polaris5-normal-gl2.zijieapi.com
 .polaris5-normal-hl.zijieapi.com
 .polaris5-normal-lf.zijieapi.com
