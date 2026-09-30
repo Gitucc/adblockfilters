@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhosts.txt
-# Version: 20260930041850
-# Last modified: 2026/09/30 04:18:50
-# Blocked domains: 206436
+# Version: 20260930104342
+# Last modified: 2026/09/30 10:43:42
+# Blocked domains: 206520
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -3214,6 +3214,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	57703b28d4.com
 0.0.0.0	57715892.click
 0.0.0.0	5776kqk3wpgeih9ftt3mx.cfd
+0.0.0.0	57db2dbfa3.com
 0.0.0.0	57f6508c2d.com
 0.0.0.0	460c0f8786.57fafe08ba.com
 0.0.0.0	57l2ng6r91.com
@@ -6171,6 +6172,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.aclk.jp
 0.0.0.0	metrics.aclu.org
 0.0.0.0	smetrics.aclu.org
+0.0.0.0	acmcnpjds.com
 0.0.0.0	tags.acmeaom.com
 0.0.0.0	lzfgzs.acmedelavie.com
 0.0.0.0	load.analytics.acmefarmstore.com
@@ -8493,6 +8495,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ads-smoot.com
 0.0.0.0	ads-stats.com
 0.0.0.0	ads-tm-glb.click
+0.0.0.0	ads-tracking.com
 0.0.0.0	ads-transfer.com
 0.0.0.0	ads-twitter.com
 0.0.0.0	ads-zeasn-lb-680910626.eu-west-1.elb.amazonaws.com
@@ -13920,6 +13923,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	amenrecorder.com
 0.0.0.0	amentcast.site
 0.0.0.0	amercedsighted.cfd
+0.0.0.0	amercessimbil.qpon
 0.0.0.0	pro.amerfirst.org
 0.0.0.0	data.email.americafirst.com
 0.0.0.0	data.transaction.americafirst.com
@@ -14901,6 +14905,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	anetkin.org
 0.0.0.0	anetwork.ir
 0.0.0.0	anewfeedliberty.com
+0.0.0.0	anewshrivel.qpon
 0.0.0.0	jtimm.anewsleep.dk
 0.0.0.0	load.tkyioiob.anewsleep.dk
 0.0.0.0	anewyoufitness.com
@@ -17768,6 +17773,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	smetrics.ascentric.co.uk
 0.0.0.0	ascertainowlbookkeeper.com
 0.0.0.0	ascesafinportsolution.com
+0.0.0.0	ascfdqggihvrg.space
 0.0.0.0	data-16d7ec9a30.aschendorff-medien.de
 0.0.0.0	ascilinvest.net
 0.0.0.0	ascohral.in
@@ -21759,6 +21765,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	adat.bama.hu
 0.0.0.0	apm.bama.ir
 0.0.0.0	bamak.xyz
+0.0.0.0	bambankankie.qpon
 0.0.0.0	ecom.bambe.ma
 0.0.0.0	tracking.bambeeni.de
 0.0.0.0	syndesmos.bambelo.com
@@ -22852,6 +22859,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sgtm.bazoom.com
 0.0.0.0	bazowin781.pro
 0.0.0.0	bazr.ru
+0.0.0.0	baztfhhqiuvttm.com
 0.0.0.0	c.bazu.cc
 0.0.0.0	clb.bazzacco.net
 0.0.0.0	capi.bazzarghat.com
@@ -27783,8 +27791,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	bnhifjqxopqrv.space
 0.0.0.0	bnhlpsmhvodae.online
 0.0.0.0	bnhtml.com
+0.0.0.0	bnhufrkyqcbbo.online
 0.0.0.0	bnidigital.com
 0.0.0.0	ads.bninews.com
+0.0.0.0	bniwhgmjnrhioni.com
 0.0.0.0	bnlif.com
 0.0.0.0	bnmkl.com
 0.0.0.0	cm3.bnmq.com
@@ -29303,6 +29313,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bqaijuqtjwpbf.website
 0.0.0.0	bqajoisaiwlxs.site
 0.0.0.0	bqbwvfofginwp.online
+0.0.0.0	bqchipbuldzvg.website
 0.0.0.0	bqddrhvtnoikv.space
 0.0.0.0	bqenzxdijbdov.space
 0.0.0.0	bqglwzsuxvfsr.space
@@ -32024,6 +32035,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bxtzeegktwvkx.website
 0.0.0.0	bxvuyljdhjtim.site
 0.0.0.0	bxvvzylxihzoh.space
+0.0.0.0	bxvxiomxjfeba.online
 0.0.0.0	bxwccii.cn
 0.0.0.0	bxwvk2ggv3.com
 0.0.0.0	bxwwtoeemvgrq.website
@@ -35135,6 +35147,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	kiwi.caycebugs.com
 0.0.0.0	caycecole.com
 0.0.0.0	sswmetrics.caymanairways.com
+0.0.0.0	caymanhafgan.qpon
 0.0.0.0	serve.caymanrobotic.com
 0.0.0.0	cayot.ir
 0.0.0.0	ss.cazadoremarketing.com
@@ -37784,6 +37797,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	wnlhmz.cimaco.com.mx
 0.0.0.0	cimaonrendaviol-click.pages.dev
 0.0.0.0	beacon.cimb.com.my
+0.0.0.0	cimbricalphyls.cfd
 0.0.0.0	cimbznaflhzgk.site
 0.0.0.0	adtrack.cimedia.net
 0.0.0.0	realaudio.cimedia.net
@@ -38693,6 +38707,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	load.dados.clcmoveisplanejados.com.br
 0.0.0.0	cldirplarimo.com
 0.0.0.0	cldlr.com
+0.0.0.0	cle38jfzoop9fyii8rwgiy59hzi.cfd
 0.0.0.0	cleafs.com
 0.0.0.0	cleafs.nl
 0.0.0.0	sgtm.cleafy.com
@@ -40192,6 +40207,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cocambgwyeeym.website
 0.0.0.0	gtm.cocbalneario.com.br
 0.0.0.0	gtm.cocblumenau.com.br
+0.0.0.0	coccidmiaows.com
 0.0.0.0	sst.coccinelle.com
 0.0.0.0	web.news.coccinelle.com
 0.0.0.0	sgtm.coccioficial.com.br
@@ -43674,6 +43690,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.cprcar.com
 0.0.0.0	server.cprgroup.com.au
 0.0.0.0	a8cv.cprime-japan.com
+0.0.0.0	cprnimwjghdhx.space
 0.0.0.0	plausible.cps.ca
 0.0.0.0	gtm.cpsconsulting.it
 0.0.0.0	cpsdlldwvosol.space
@@ -47275,6 +47292,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	analytics-smg-gateway.eu-nordics-sto-production.dstny.d4sp.com
 0.0.0.0	d4xmm7es84.com
 0.0.0.0	d5092moci.com
+0.0.0.0	d5455682ae.com
 0.0.0.0	f3737ec16b.d57b6d1e63.com
 0.0.0.0	d580eca1d1.com
 0.0.0.0	d58bdec688.com
@@ -51913,6 +51931,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	trac.diolorbeauty.com
 0.0.0.0	load.new.dionecouture.com
 0.0.0.0	dioninica.com
+0.0.0.0	dionizewarlordrally.cyou
 0.0.0.0	str.diontraining.com
 0.0.0.0	dionymservant.shop
 0.0.0.0	asnio.dior.com
@@ -52930,6 +52949,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dlooqrhebkjoh.cloudfront.net
 0.0.0.0	sqcrb.dlouise.co.uk
 0.0.0.0	dlqbioenjjwsv.store
+0.0.0.0	dlqetfcxdfzxr.online
 0.0.0.0	dlrioxg1637dk.cloudfront.net
 0.0.0.0	dlrtz.com
 0.0.0.0	gtm.dlscomex.com.br
@@ -54065,6 +54085,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cuwtqn.doseofcolors.com
 0.0.0.0	sgtm.doshiva.com
 0.0.0.0	doshlforex.com
+0.0.0.0	dosingscutta.com
 0.0.0.0	a8clk.dospara.co.jp
 0.0.0.0	tk.dossier.co
 0.0.0.0	dossingxina.com
@@ -55759,6 +55780,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.duempelmann-kollegen.de
 0.0.0.0	gtm.duenenpark-sylt.de
 0.0.0.0	duenschdgoplh.online
+0.0.0.0	dueobtiwztrvb.website
 0.0.0.0	stape.duepanno.com.br
 0.0.0.0	pro.duepezzi.com
 0.0.0.0	sgtm.duepezzibeachwear.com
@@ -55832,6 +55854,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	duleonon.com
 0.0.0.0	track2.dulingo.com
 0.0.0.0	stp.dullesglass.com
+0.0.0.0	dullingmaltols.qpon
 0.0.0.0	dullmilacredolmans.cyou
 0.0.0.0	sst.esmeralda.dully.io
 0.0.0.0	dullylogoi.cfd
@@ -57417,6 +57440,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ebbscouture.cfd
 0.0.0.0	ebbyvmrweoimo.space
 0.0.0.0	ebcuyqqwftzfn.website
+0.0.0.0	ebdfedoyvojak.online
 0.0.0.0	elq-ic01.ebdgroup.com
 0.0.0.0	ebdljicttjddk.store
 0.0.0.0	ebdr2.com
@@ -58841,6 +58865,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ejuacikpcxjyk.online
 0.0.0.0	ejubffgqqurwz.space
 0.0.0.0	ejufwpkpikrgy.space
+0.0.0.0	ejwirwtvfytge.site
 0.0.0.0	ejwxlplhgzzhf.store
 0.0.0.0	ejxaihnkjwwce.space
 0.0.0.0	ejxhiitnxgwun.site
@@ -61583,6 +61608,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	erniphiq.com
 0.0.0.0	ernser.org
 0.0.0.0	tracking.ernstings-family.de
+0.0.0.0	ernswhereatredwud.cyou
 0.0.0.0	trckng.erntehelfer-versichern.de
 0.0.0.0	ero-advertising.com
 0.0.0.0	ero-cupid.com
@@ -61669,6 +61695,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	server.ervamatecasagrande.com.br
 0.0.0.0	load.sst.ervamatinsrbija.com
 0.0.0.0	contato.ervencosmetics.com.br
+0.0.0.0	ervilcopsesoutcrow.cfd
 0.0.0.0	ervtdgkyqbsdd.website
 0.0.0.0	ervwyrdicmuvz.space
 0.0.0.0	data-81547504c8.erwin-event.de
@@ -66292,6 +66319,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	server.feriwalabd.com
 0.0.0.0	smetrics.ferkeldurchfallf18.de
 0.0.0.0	img.ferlie.net
+0.0.0.0	ferliedlenora.cyou
 0.0.0.0	ks.ferlytc.com
 0.0.0.0	shop.fermatabd.com
 0.0.0.0	sst.fermeturesdelabrie.com
@@ -66494,6 +66522,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ffdlzdsluvwjn.online
 0.0.0.0	rian.ffern.co
 0.0.0.0	data.a.boutique.fff.fr
+0.0.0.0	fffcb81bb4.com
 0.0.0.0	ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 0.0.0.0	trx01.ffg.at
 0.0.0.0	analytics.ffh.de
@@ -71612,6 +71641,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dlyyzort.fugen-shop.de
 0.0.0.0	fuget.xyz
 0.0.0.0	fugetech.com
+0.0.0.0	fugiegeslingsubwink.cfd
 0.0.0.0	fugitivedepart.com
 0.0.0.0	fugitiverancidpry.com
 0.0.0.0	eeodvdku.fuglsang-algeservice.dk
@@ -73047,6 +73077,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ganglikaimai.com
 0.0.0.0	gangsterrecuperateintrepid.com
 0.0.0.0	www.gangtaylor.property
+0.0.0.0	gangway97.com
 0.0.0.0	gangwaynumberprivacy.com
 0.0.0.0	sst.gangwayz.de
 0.0.0.0	ganharcurtidas.com
@@ -73069,6 +73100,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	aldieu.ganoblestar.shop
 0.0.0.0	ganofpineal.cfd
 0.0.0.0	cmp.ganref.jp
+0.0.0.0	ganserunwry.qpon
 0.0.0.0	stats-sg.ganymede.eu
 0.0.0.0	sst.ganz-baukeramik.ch
 0.0.0.0	da.ganzinweiss.eu
@@ -76144,6 +76176,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	logsk.glomancloud.gr
 0.0.0.0	player-feedback-v1.glomex.com
 0.0.0.0	s.glomstapoolen.com
+0.0.0.0	glonte.xyz
 0.0.0.0	gmn.gloo.com
 0.0.0.0	ss.glooby.com.ar
 0.0.0.0	gloochie.com
@@ -79152,6 +79185,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	smetrics.gsghukuk.com
 0.0.0.0	target.gsghukuk.com
 0.0.0.0	gsgmbalessijt.site
+0.0.0.0	gsgtapaplvfhr.site
 0.0.0.0	gsgxnauqu8.com
 0.0.0.0	analytics.gshc.ch
 0.0.0.0	gshcsoaowxcbz.space
@@ -80125,6 +80159,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	counter.hackers.lv
 0.0.0.0	serverside.hackett.com
 0.0.0.0	hackgamemienphi.com
+0.0.0.0	hackianude.qpon
 0.0.0.0	hackingshowery.cfd
 0.0.0.0	hackle.io
 0.0.0.0	hacklink.tech
@@ -80675,6 +80710,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sst.hansagarten24.de
 0.0.0.0	load.sst.hansagartenhaus.at
 0.0.0.0	data-47ee1b0882.hansakinosyke.de
+0.0.0.0	hanseffaces.qpon
 0.0.0.0	matomo.hansefit.de
 0.0.0.0	dil.hansel.io
 0.0.0.0	sdk.hansel.io
@@ -80727,6 +80763,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	app.hapicolibri.fr
 0.0.0.0	tk.hapik.de
 0.0.0.0	load.gtm.hapik.fr
+0.0.0.0	hapkpqtfwzndo.online
 0.0.0.0	remark.haplaytour.com
 0.0.0.0	haplesshydrant.com
 0.0.0.0	haplessinfamia.com
@@ -83949,6 +83986,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	geo.hltv.org
 0.0.0.0	hlufsqadxupgr.website
 0.0.0.0	hlumreexivler.space
+0.0.0.0	hlvduhhlootyc.website
 0.0.0.0	hlviet84.com
 0.0.0.0	hly.com
 0.0.0.0	tfzzy4objtvy6.hlzn71bh261zzgrtx8vklvgp3q.cyou
@@ -85961,6 +85999,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tracking.ht.se
 0.0.0.0	tracking.etidning.ht.se
 0.0.0.0	ss.ht26.com
+0.0.0.0	ht55hm12n2.com
 0.0.0.0	ht9s1j1bf.com
 0.0.0.0	htagpa.tech
 0.0.0.0	htajztellrgmu.space
@@ -93588,6 +93627,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	j3idyosut.com
 0.0.0.0	metrics.j3l.ch
 0.0.0.0	vmsst.j4ksports.co.uk
+0.0.0.0	j4l9736vtpjhb21kuxo3p.rest
 0.0.0.0	j4s12kfavg.com
 0.0.0.0	j4u2ndz50a.com
 0.0.0.0	system.j5media.de
@@ -96248,6 +96288,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	jqhxsrqhvztee.site
 0.0.0.0	jqjfomk.com
 0.0.0.0	jqjpdxlywnqam.site
+0.0.0.0	jqkbmtcjimat.com
 0.0.0.0	jqlpnqzcnehhb.site
 0.0.0.0	jqluayokcswse.website
 0.0.0.0	jqlvpjklvlnyw.online
@@ -100048,6 +100089,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	klwwxepxnqnhr.website
 0.0.0.0	klxfmolddnlpl.website
 0.0.0.0	klxikmcosxzbd.online
+0.0.0.0	klyekatyvobsz.space
 0.0.0.0	lp.klyjun.shop
 0.0.0.0	stats.klyma.de
 0.0.0.0	sst.klyqa.de
@@ -104978,6 +105020,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cdnx.leucosyahotel.com
 0.0.0.0	leudilingium.com
 0.0.0.0	leudsnoncome.shop
+0.0.0.0	leudvisitor.qpon
 0.0.0.0	lfsgc.leukaemia.org.au
 0.0.0.0	images.one.leumicard.co.il
 0.0.0.0	gtm.leunelab.com
@@ -115540,6 +115583,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	mhktxzxqhlzik.online
 0.0.0.0	mhkufxshpxgps.website
 0.0.0.0	tr.contact.mhl-publishing.fr
+0.0.0.0	mhlhyrrlxtbqo.website
 0.0.0.0	metrics.mhlnews.com
 0.0.0.0	smetrics.mhlnews.com
 0.0.0.0	mhlnk.com
@@ -119720,6 +119764,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	mqunqwsyrw.com
 0.0.0.0	mqutibglqfjmq.website
 0.0.0.0	mqwdgnbntkgen.space
+0.0.0.0	mqwvygcrfgdtg.site
 0.0.0.0	mqxbtsawpuulc.store
 0.0.0.0	load.gtm.mr-adam.nl
 0.0.0.0	sst.mr-bricolage.bg
@@ -120670,6 +120715,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cqdnr.musclesport.com
 0.0.0.0	a8.campaign.musclesuit.co.jp
 0.0.0.0	gtm.muscleupbars.com
+0.0.0.0	musclywastesizz.cfd
 0.0.0.0	server.musculacaonapratica.com.br
 0.0.0.0	musculahq.appspot.com
 0.0.0.0	museactor.pl
@@ -123021,6 +123067,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	narixodelutrade.com
 0.0.0.0	narkalignevil.com
 0.0.0.0	narkazancay.net
+0.0.0.0	narkykea.cyou
 0.0.0.0	narlheuqrbgcf.space
 0.0.0.0	adriverm.narod2.ru
 0.0.0.0	sst.naroomask.com
@@ -123156,6 +123203,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	nathaliegraham.co.uk
 0.0.0.0	bznrnmlw.nathanielcars.co.uk
 0.0.0.0	nathanielhawthorne.site
+0.0.0.0	nathemohi.cfd
 0.0.0.0	stape.nathercia.com.br
 0.0.0.0	nathnhfjtdlum.space
 0.0.0.0	neoss.naticoquette.com
@@ -125797,6 +125845,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	nhtkdwffnlgvl.store
 0.0.0.0	nhtosawxpqjxu.site
 0.0.0.0	nhttvqorwq.com
+0.0.0.0	nhubwikasji.in
 0.0.0.0	nhuk707eex.com
 0.0.0.0	nhwlkqoodhlar.online
 0.0.0.0	nhzczuzvmmcfh.website
@@ -126520,6 +126569,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	stats.nkkk.de
 0.0.0.0	nkkluupoxdlzo.online
 0.0.0.0	nklmyoknzntio.website
+0.0.0.0	nkmsfuhdoyjwd.space
 0.0.0.0	nkmsite.com
 0.0.0.0	nknqotgyblbpr.space
 0.0.0.0	nkpauxyuzmgmk.online
@@ -128057,6 +128107,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	nqrmulefubdjw.website
 0.0.0.0	nqrsdhemqmfdry.com
 0.0.0.0	nqslmtuswqdz.com
+0.0.0.0	nqtti27g73zzom696vv6j.rest
 0.0.0.0	nqujxpsgreztv.online
 0.0.0.0	nqvpvohgnfjie.online
 0.0.0.0	nqyvanxrvjfng.website
@@ -129045,6 +129096,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sst.o11-hotel.com
 0.0.0.0	analytics.o11.tech
 0.0.0.0	sgtm.o16.dk
+0.0.0.0	o17kbwlq9p.com
 0.0.0.0	o18.click
 0.0.0.0	o18.link
 0.0.0.0	o1fhfeu6qa.com
@@ -129629,6 +129681,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ea.odalys-vacation-rental.com
 0.0.0.0	webanalytics.odav.de
 0.0.0.0	sgtm.odblokujfinanse.pl
+0.0.0.0	odbmumtgzryff.online
 0.0.0.0	odchkdybnsxre.space
 0.0.0.0	odcihresoxgcv.site
 0.0.0.0	oddball-creative.pro
@@ -130860,6 +130913,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	omcanzon.com
 0.0.0.0	omcrobata.com
 0.0.0.0	www.omcservicessales.com
+0.0.0.0	omdayasxkysogi.com
 0.0.0.0	smetrics.omdia.com
 0.0.0.0	analytics.ome.lt
 0.0.0.0	gtm.omecanismoinvisivel.com.br
@@ -133116,6 +133170,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	abc.orvie.co
 0.0.0.0	orvietnmqxcgm.online
 0.0.0.0	orviion.com
+0.0.0.0	orvillebosksbougee.cyou
 0.0.0.0	eiorzm.orvis.com
 0.0.0.0	metrics.orvis.com
 0.0.0.0	omni.orvis.com
@@ -134355,6 +134410,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	adfree-stat.p3g.hu
 0.0.0.0	p3lj34e33yz6ug5z.rest
 0.0.0.0	p3ns7b.hair
+0.0.0.0	p3yh1ogopqp3h7n7vixt8.cfd
 0.0.0.0	p43c4oysmb.com
 0.0.0.0	lqzqz.us.p448.com
 0.0.0.0	p49o7e.ru
@@ -135773,6 +135829,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	paservices.tech
 0.0.0.0	pasfox.co
 0.0.0.0	www.pashcams.com
+0.0.0.0	pashesdebcle.cfd
 0.0.0.0	pashmfordeal.com
 0.0.0.0	ssc.pashtovoa.com
 0.0.0.0	tags.pashtovoa.com
@@ -145299,6 +145356,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	pvt2202--deab86120ff311f1b0c142dde27851f2.web.val.run
 0.0.0.0	pvtebufamzfon.site
 0.0.0.0	pvuznrtadztxu.space
+0.0.0.0	pvvdfvwyytmpi.com
 0.0.0.0	pvvkigebunabd.site
 0.0.0.0	pvzesryoifiit.online
 0.0.0.0	pwaefamkqslht.site
@@ -146155,6 +146213,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	stepstomeasure.qlearn.com.bd
 0.0.0.0	qlfqkjluvz.com
 0.0.0.0	qlfvmcy1sp.com
+0.0.0.0	qlhqkphqbkoxg.site
 0.0.0.0	qliqxaxsajpls.space
 0.0.0.0	qliwncicprtay.site
 0.0.0.0	qljbncscqxlez.online
@@ -146192,6 +146251,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	qmj89db55u.com
 0.0.0.0	qmjgalvrybilh.online
 0.0.0.0	qmnjvczfauxbb.site
+0.0.0.0	qmohwjiqvndcy.online
 0.0.0.0	sgtm.qmrfashion.com
 0.0.0.0	load.g.qmsmedicosmetics.com
 0.0.0.0	load.g.qmsmedicosmetics.de
@@ -146534,6 +146594,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	qquhzi4f3.com
 0.0.0.0	qquxahyfqinua.site
 0.0.0.0	apk.qqvv88.com
+0.0.0.0	qqwnrphmqkxvn.site
 0.0.0.0	qqxm.info
 0.0.0.0	qqyxygag.shop
 0.0.0.0	qqznesheignkm.site
@@ -149090,6 +149151,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	eye.rd.services
 0.0.0.0	rd7cfn.cfd
 0.0.0.0	www.rdalpha.net
+0.0.0.0	rdbfaofnuhdkf.space
 0.0.0.0	rdblieez7.com
 0.0.0.0	rdcdzuzowsxnq.website
 0.0.0.0	tr.contact.rdcmm.fr
@@ -155116,6 +155178,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	rwglmbgecjkom.space
 0.0.0.0	rwgsidrmjrghq.online
 0.0.0.0	rwhxz.space
+0.0.0.0	rwhyrlb8r2.com
 0.0.0.0	rwilwcovop.icu
 0.0.0.0	rwjbdrzrqgsrf.space
 0.0.0.0	b.rwjf.org
@@ -156910,6 +156973,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	say.ac
 0.0.0.0	sayac.net.tr
 0.0.0.0	sgtm.sayancare.xyz
+0.0.0.0	sayawharfed.cfd
 0.0.0.0	sn.saycheeseclub.com
 0.0.0.0	si.saydigitals.com
 0.0.0.0	trk.sayerfinancial.com
@@ -157885,6 +157949,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.scwsf.com
 0.0.0.0	scwvvag.shop
 0.0.0.0	scxjzworwsxhn.online
+0.0.0.0	scyjupzqmyvwn.site
 0.0.0.0	scyphatipis.shop
 0.0.0.0	scyunztvkunuw.website
 0.0.0.0	scywulanqfaq.in
@@ -164675,6 +164740,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tracking.eloq.soa.org
 0.0.0.0	ojygoysz.soacheck.com
 0.0.0.0	load.sst.soakbathhouse.co.uk
+0.0.0.0	soakersscrin.com
 0.0.0.0	soakweaseluniversal.com
 0.0.0.0	gtm.soalarme.com.br
 0.0.0.0	servergtm.soalarme.com.br
@@ -170083,6 +170149,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	submissivejuice.com
 0.0.0.0	log-abroad-ups.submitdata.top
 0.0.0.0	submitnet.net
+0.0.0.0	subnessbeefin.cfd
 0.0.0.0	subringwarsaws.cyou
 0.0.0.0	subrvistadash.site
 0.0.0.0	app.subs.tv
@@ -173380,6 +173447,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	taujxhyhmgwbd.website
 0.0.0.0	taunahi.st
 0.0.0.0	taupe-bag.shop
+0.0.0.0	taupoumuscovi.qpon
 0.0.0.0	sst.taurustraders.de
 0.0.0.0	sst.tauschwohnung.com
 0.0.0.0	taut-nature.com
@@ -173746,6 +173814,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.tdssistemas.com.br
 0.0.0.0	tdstats.com
 0.0.0.0	tdtc.shop
+0.0.0.0	tdtexdceiujwi.site
 0.0.0.0	stats.tdurand.com
 0.0.0.0	xqmkjy.tdv.org
 0.0.0.0	tdwlai.com
@@ -179099,6 +179168,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tluihoeadocjs.store
 0.0.0.0	tlvbtryetgppha.com
 0.0.0.0	tlvmedia.com
+0.0.0.0	tlxaiqzvdpexo.site
 0.0.0.0	tlzbingfedfln.online
 0.0.0.0	tlzwfptcxztnx.space
 0.0.0.0	tm-analytics-pr.trafficmanager.net
@@ -179114,6 +179184,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	apiserver.tmb.com.br
 0.0.0.0	tmb5trk.com
 0.0.0.0	tmbiounhsqufo.online
+0.0.0.0	tmblkvxxkvilj.online
 0.0.0.0	tmbzzscswoyir.space
 0.0.0.0	page.health.tmcaz.com
 0.0.0.0	tracking.health.tmcaz.com
@@ -179436,6 +179507,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	togxfwvfslruy.space
 0.0.0.0	sgtm.tohapi.fr
 0.0.0.0	tohoef.com
+0.0.0.0	tohrkhcdqdxlma.com
 0.0.0.0	adservice.tohsoft.com
 0.0.0.0	th4.tohu.ca
 0.0.0.0	toibjavyncxnc.site
@@ -180251,7 +180323,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sgtm.torturella.com.br
 0.0.0.0	toru0vane.com
 0.0.0.0	a8cv.torudakeweb.com
-0.0.0.0	my.toruftuiov.com
+0.0.0.0	toruftuiov.com
 0.0.0.0	gtm.torusperformance.com.br
 0.0.0.0	load.ss.torvekoekken.dk
 0.0.0.0	aldimart.torvemart.shop
@@ -186222,6 +186294,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	unmnehicnyoiz.site
 0.0.0.0	s.unmo.se
 0.0.0.0	unmodincan.store
+0.0.0.0	unmountunfree.cfd
 0.0.0.0	unmovedknittingeliza.com
 0.0.0.0	unnajd.com
 0.0.0.0	unnaturalcask.com
@@ -187677,6 +187750,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	uxcjzhltqcgxy.space
 0.0.0.0	uxcnhsf.cn
 0.0.0.0	uxerwhlrkkhsb.site
+0.0.0.0	uxeuktpbypkxz.space
 0.0.0.0	uxevhnhwanwgg.site
 0.0.0.0	x5x.uxf6gkki26h8hx8p49885e.cyou
 0.0.0.0	uxfvatxoqvrpf.space
@@ -188890,6 +188964,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	veinteractive.com
 0.0.0.0	xml-eu.veiwers-ships.online
 0.0.0.0	xml-v4.veiwers-ships.online
+0.0.0.0	vejbxurqccaka.site
 0.0.0.0	load.ss.vejlbyfedstrandcamping.dk
 0.0.0.0	nqacsh.vejle24.dk
 0.0.0.0	gst.vejlemusikteater.dk
@@ -190967,6 +191042,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	s.vipdube.com
 0.0.0.0	xis.vipergirls.to
 0.0.0.0	viperishly.com
+0.0.0.0	vipersslaver.cyou
 0.0.0.0	vipersuccessfullygoblet.com
 0.0.0.0	nvfja.vipertecknives.com
 0.0.0.0	vipfastmoney.com
@@ -194063,6 +194139,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	wallflore.de
 0.0.0.0	azzvz.wallien.com
 0.0.0.0	wallingmimir.com
+0.0.0.0	wallingpestis.cfd
 0.0.0.0	sstats.wallisfashion.com
 0.0.0.0	stats.wallisfashion.com
 0.0.0.0	wallkit.net
@@ -201848,6 +201925,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ybmulvsbb.com
 0.0.0.0	yotrack.cdn.ybn.io
 0.0.0.0	ybnquhcbojngd.space
+0.0.0.0	ybnuohsytbvpl.website
 0.0.0.0	ybotvisit.com
 0.0.0.0	ybowcyskuemsj.store
 0.0.0.0	ybozjqsojrktu.online
@@ -202238,6 +202316,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	yhzn0f.ru
 0.0.0.0	yhzofhfjcynkg.site
 0.0.0.0	sgtm.yiannistavernarhodes.com
+0.0.0.0	yiasneyurp.com
 0.0.0.0	yiboshangmao3.com
 0.0.0.0	yibxebytevyif.website
 0.0.0.0	yibxfyylqxswj.site
@@ -203140,6 +203219,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	yp0loy5lcl.com
 0.0.0.0	c.ypcdn.com
 0.0.0.0	ypdizpjmjgcsr.website
+0.0.0.0	ypdlpyerqlwkma.com
 0.0.0.0	ypfai.net
 0.0.0.0	ypfrqqgjhaxqk.space
 0.0.0.0	ypgfrdasphgre.online
@@ -203509,6 +203589,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ywtennjipgrwd.website
 0.0.0.0	ywugyssrmkvat.website
 0.0.0.0	ywuzuazsjnzto.online
+0.0.0.0	ywxc.net
 0.0.0.0	123.ywxww.net
 0.0.0.0	ywygrtyblmaxe.site
 0.0.0.0	ywzyhljazdsrx.space
@@ -203600,6 +203681,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	yyroyyipsitcf.site
 0.0.0.0	yyselrqpyu.com
 0.0.0.0	yystzl.cn
+0.0.0.0	yyuaksepmz.com
 0.0.0.0	yyvvkczsfrlkn.online
 0.0.0.0	yywridi.cn
 0.0.0.0	yyxaooxwjxofv.space
@@ -204552,6 +204634,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com
 0.0.0.0	zentrixads.com
 0.0.0.0	zentrixaiengine.com
+0.0.0.0	a.zentrum-der-gesundheit.de
 0.0.0.0	zentryx.space
 0.0.0.0	sgtm.zentwatch.com
 0.0.0.0	tracklabs.zenviaahome.com
@@ -204855,6 +204938,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	slotabrosdev.zharev.com
 0.0.0.0	slotabrosuat.zharev.com
 0.0.0.0	zhcyrfxkupdvs.store
+0.0.0.0	zhdqegmnehrpl.site
 0.0.0.0	cdnlog.zhenai.com
 0.0.0.0	1.zhev.com.cn
 0.0.0.0	zhffvzqowuoos.space
