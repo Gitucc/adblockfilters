@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20261007225056
-  # Last modified: 2026/10/07 22:50:56
-  # Blocked domains: 5148
+  # Version: 20261008045303
+  # Last modified: 2026/10/08 04:53:03
+  # Blocked domains: 5141
   #
   - '+.kwflvcdn.000dn.com'
   - '+.img.0279.net'
@@ -224,7 +224,6 @@ payload:
   - '+.a.4aqq.com'
   - '+.4fiz-jo.shop'
   - '+.4fiz-jos.shop'
-  - '+.4fizjoslp.shop'
   - '+.4fizjosolp.shop'
   - '+.4fizjosport.shop'
   - '+.4fsportspl.shop'
@@ -263,7 +262,6 @@ payload:
   - '+.a.52zxw.com'
   - '+.53kf.com'
   - '+.54kefu.net'
-  - '+.down.54nb.com'
   - '+.55.la'
   - '+.555sq.com.cn'
   - '+.55726zubo56686.com'
@@ -384,7 +382,6 @@ payload:
   - '+.abbyychina.com'
   - '+.smetrics.abercrombie.cn'
   - '+.discover.absciex.com.cn'
-  - '+.disk.accord1key.cn'
   - '+.apilog-web.acfun.cn'
   - '+.jscode.acg68.com'
   - '+.acgshenshicha.cn'
@@ -1625,7 +1622,6 @@ payload:
   - '+.stat.funshion.com'
   - '+.stat.funshion.net'
   - '+.love.furenkeji.com'
-  - '+.furniture-store.shop'
   - '+.trk.futureelectronics.cn'
   - '+.fwmbjrl.cn'
   - '+.dmym.fwol.cn'
@@ -3041,7 +3037,7 @@ payload:
   - '+.oj95rctd5.com'
   - '+.ojg8sflgl.com'
   - '+.ojmv.cn'
-  - '+.okhan.net'
+  - '+.www.okhan.net'
   - '+.oldulgk.cn'
   - '+.oneapm.com'
   - '+.onelnk.com'
@@ -3416,7 +3412,6 @@ payload:
   - '+.dns.weixin.qq.com.cn'
   - '+.wxaintpcos.wxqcloud.qq.com.cn'
   - '+.qq2tdd0xx.com'
-  - '+.down.qqfarmer.com.cn'
   - '+.sdk-ab-config.qquanquan.com'
   - '+.tracelog-debug.qquanquan.com'
   - '+.f.qstatic.com'
@@ -4944,7 +4939,6 @@ payload:
   - '+.yvdb.cn'
   - '+.yw800.com.cn'
   - '+.ywkkmze.cn'
-  - '+.123.ywxww.net'
   - '+.adsclick.yx.js.cn'
   - '+.ad.a.yximgs.com'
   - '+.ali-ad.a.yximgs.com'
@@ -4993,7 +4987,6 @@ payload:
   - '+.zakladybolslkzs.homes'
   - '+.zakladybolslkzw.homes'
   - '+.zakladykspl.shop'
-  - '+.zakladyspl.shop'
   - '+.zamplus.com'
   - '+.zantainet.com'
   - '+.zazhipu.com'
