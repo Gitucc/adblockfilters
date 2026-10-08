@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20261008111802
-! Last modified: 2026/10/08 11:18:02
-! Blocked domains: 5141
+! Version: 20261008230130
+! Last modified: 2026/10/08 23:01:30
+! Blocked domains: 5148
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -19,7 +19,6 @@ o.027eat.com
 0dy3evz6x.com
 0otmh22aj2.com
 0wk6gdkg8r.com
-0x2beace.com
 0xr7ii3df.com
 10000xing.cn
 1717.1000uc.com
@@ -38,7 +37,6 @@ ad.12306.cn
 123cha.com
 bdad.123pan.cn
 ent1.12584.cn
-126.cn
 analytics.126.com
 ir.mail.126.com
 ads.music.126.net
@@ -329,7 +327,6 @@ bdcdncnc.inter.71edge.com
 7dot.cn
 count.7m.com.cn
 7moor.com
-cdn.7nsc.cn
 7s7bvoungt.com
 7s8z7w24u.com
 cp.7y7.com
@@ -1142,8 +1139,6 @@ log-eap-in.coloros.com
 log-eap-sg.coloros.com
 moa-upload-online.coloros.com
 smartcard.apps.coloros.com
-smartcardf-eu.apps.coloros.com
-smartcardf.apps.coloros.com
 iadsdk.apple.com.akadns.net
 wangsu-smetrics.redhat.com.edgekey.net
 trk.compair.com.cn
@@ -1236,6 +1231,7 @@ daoyoudao.com
 daraz.com
 marketing.net.daraz.lk
 net.daraz.pk
+darm.cn
 console.data4.net
 gate.datacaciques.com
 pv.datacaciques.com
@@ -1300,6 +1296,7 @@ events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 events-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
+hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
 engine.dcad01.com
 xcx.dcad01.com
 ddapp.cn
@@ -1408,6 +1405,7 @@ other.v.duowan.com
 playstats.v.duowan.com
 stats.v.duowan.com
 vupload.duowan.com
+adsmis.duxiaoman.com
 analytics-api.dvdfab.cn
 servo-report.dvdfab.cn
 dvtednm.cn
@@ -1461,6 +1459,7 @@ newgooglgecheckoutroundwebmailer-dpzcf6efmgzv.edgeone.dev
 officialgmailveirifcationtunnel-dpfk8fse6v5v.edgeone.dev
 ofornaogu-dpzv6dife1hh.edgeone.dev
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
+sriramnwar-dpoae04723lz.edgeone.dev
 webmaprocessinh-dpbehei5spwx.edgeone.dev
 wwwww-dpe7gpnooou7.edgeone.dev
 eexlgyn.cn
@@ -1769,6 +1768,7 @@ googletagmanager.com
 googletagservices-cn.com
 googletraveladservices.com
 googlevads-cn.com
+gorituals.shop
 gostats.cn
 kad.gotokeep.com
 govkunming.cn
@@ -1834,6 +1834,7 @@ h7ima6w5k.com
 images.newsletter.hach.com.cn
 hacker.com.cn
 haejkmm.cn
+halloweencostumes-ie.shop
 haloapps.com
 go.hangzhou.com.cn
 hanlanad.com
@@ -1966,6 +1967,7 @@ hiido.com
 analytics.shop.hisense.com
 api-4know-em.hismarttv.com
 api-gps.hismarttv.com
+api-gps-em.hismarttv.com
 api-gps-eu.hismarttv.com
 api-launcher-eu.hismarttv.com
 api-launcher-na.hismarttv.com
@@ -2014,6 +2016,7 @@ ad.house365.com
 adadmin.house365.com
 ads.house365.com
 stat.house365.com
+housedeal-eu.shop
 abtest-api-data-sg.hoyoverse.com
 ad-log-upload-os.hoyoverse.com
 apm-log-upload-os.hoyoverse.com
@@ -2469,7 +2472,6 @@ open.kuaishouzt.com
 pv.kuaizhan.com
 kuaizip.com
 kuaizitech.com
-kuanxin.top
 ads.service.kugou.com
 adservice.kugou.com
 adserviceretry.kugou.com
@@ -2573,7 +2575,6 @@ jmacs-m.lazada.sg
 msgacs-m.lazada.sg
 jmacs-m.lazada.vn
 msgacs-m.lazada.vn
-lbank.site
 cc.lbesec.com
 lbprjdi.cn
 lbxxlw.cn
@@ -2707,6 +2708,7 @@ metrics.mathworks.cn
 smetrics.mathworks.cn
 mbai.cn
 mbaobao.com
+matomo.mdjpxw.com
 bidder.mdspinc.com
 lepodownload.mediatek.com
 mepodownload.mediatek.com
@@ -2789,7 +2791,6 @@ micro-xdb.com
 microad-cn.com
 stat.microvirt.com
 pylon.micstatic.com
-plausible.midway.run
 track.midway.run
 app.log.nf.migu.cn
 uem.migu.cn
@@ -2880,7 +2881,6 @@ mk0d5qbdj.com
 emjs.mkzhan.com
 mlstx.cn
 da.mmarket.com
-mmda-mayhulika-ph.com
 mmdamayhulikaph.com
 mmkkiivv.com
 tc.mnbvcxzq.com
@@ -2922,6 +2922,7 @@ qn-cdnfile1pcdn.msstatic.com
 qn-livewebbs2pcdn.msstatic.com
 mstatik.com
 muidar.com
+cdnovs.multiopen.cn
 a.munters.cn
 mvamnng.cn
 mxevdii.cn
@@ -2942,6 +2943,7 @@ teslaamg.obs.cn-east-3.myhuaweicloud.com
 myhug.cn
 metrics-picture-hk.d1.mykeeta.com
 esa-reg-eup.myoppo.com
+ihracat.myq-see.com
 12551-1311572332.cos.ap-shanghai.myqcloud.com
 2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com
 ad-1258444056.cos.accelerate.myqcloud.com
@@ -2998,7 +3000,6 @@ njzyjy.cn
 nkscdn.com
 nlzyp.cn
 ad.nmjsjs.com
-noone.ren
 analytics.notegen.top
 noteonline-pt.shop
 web.novogene.com
@@ -3469,7 +3470,7 @@ v3-reading-ad.qznovelvod.com
 v5-bd-daily-reading-ad.qznovelvod.com
 v5-ex-reading-ad.qznovelvod.com
 v5-reading-ad.qznovelvod.com
-v5-se-bjtc-reading-ad.qznovelvod.com
+v5-se-ex-mc-reading-ad.qznovelvod.com
 v5-se-gddgtc-reading-ad.qznovelvod.com
 v5-se-sjy-daily-reading-ad.qznovelvod.com
 v6-daily-reading-ad.qznovelvod.com
@@ -3726,6 +3727,7 @@ mon.snssdk.com
 open.snssdk.com
 pangolin.snssdk.com
 stream.snssdk.com
+tbm.snssdk.com
 tnc3-aliec2.snssdk.com
 tnc3-alisc1.snssdk.com
 tnc3-bjlgy.snssdk.com
@@ -3753,6 +3755,7 @@ api.danmu.tv.sohu.com
 api.tv.sohu.com
 assp.sohu.com
 bd.hd.sohu.com
+changyan.sohu.com
 click2.hd.sohu.com
 count.vrs.sohu.com
 ctr.hd.sohu.com
@@ -3782,6 +3785,7 @@ rtb-uswest-ak.solomath.com
 gg.sonhoo.com
 sc.sonystyle.com.cn
 soorbka.cn
+sorituals.shop
 bd1.sosg.net
 dr.soso.com
 jzclick.soso.com
@@ -4179,6 +4183,7 @@ analytics.umetrip.com
 unionli.com
 unionsy.com
 cdp.cloud.unity.cn
+metrics2.unity.cn
 cdn.iads.unitychina.cn
 unityads.unitychina.cn
 b.unjs.com
@@ -4218,6 +4223,7 @@ uzzf.com
 log.apk.v-mate.mobi
 v-vay.com
 1.v-x.com.cn
+uu.v2raynapps.com.cn
 ad.v3mh.com
 ads.v3mh.com
 www.v61.com
@@ -4317,6 +4323,7 @@ cname-asia-st-exappupgrade.vivoglobal.com
 cname-in-apport-stsdk.vivoglobal.com
 cname-in-bom01-nginxpool03.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
+co-cota.vivoglobal.com
 co-domaincfg.vivoglobal.com
 co-onrt-stsdk.vivoglobal.com
 co-ort-stsdk.vivoglobal.com
@@ -4722,6 +4729,7 @@ adbehavior.wsa.ximalaya.com
 adse.ximalaya.com
 adse.test.ximalaya.com
 adse.wsa.ximalaya.com
+adwbs.ximalaya.com
 linkeye.ximalaya.com
 location.ximalaya.com
 mobwsa.ximalaya.com
@@ -4794,7 +4802,6 @@ bdmjs.xywy.com
 xzswn87hm.com
 bmjs.xzw.com
 y6a7ap3io3.com
-adserver.yaboo.com
 image.yafytg.cn
 yahekby.cn
 advertising.yahoo.com
@@ -4977,7 +4984,6 @@ yktj.yzz.cn
 cdnjs.z-face.cn
 z0rto0758.com
 z9sab7vr0b.com
-zaixianvip.cn
 zaklady-ceramiczne.shop
 zakladyboleslawiechome-pl.shop
 zakladyboleslawiechome.shop
@@ -5015,6 +5021,7 @@ cdnlog.zhenai.com
 zhflodsix.cn
 zhidian3g.cn
 pv.zhiding.cn
+zhigao5191.com
 adstatic.zhihu.com
 crash2.zhihu.com
 event.zhihu.com
