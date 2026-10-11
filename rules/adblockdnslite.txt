@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20261011103431
-! Last modified: 2026/10/11 10:34:31
-! Blocked domains: 7879
+! Version: 20261011222752
+! Last modified: 2026/10/11 22:27:52
+! Blocked domains: 7910
 ! unBlocked domains: 17
 !
 ||kwflvcdn.000dn.com^
@@ -68,6 +68,7 @@
 ||0oi1ej7mo.com^
 ||0oo9j37xp.com^
 ||0otmh22aj2.com^
+||0qry58i9es.com^
 ||0qxfxqif0.com^
 ||0s1wclct6.com^
 ||0s5qb3rfz.com^
@@ -109,8 +110,8 @@
 ||ad.12306.cn^
 ||123cha.com^
 ||bdad.123pan.cn^
-||124to81tc.com^
 ||ent1.12584.cn^
+||126.cn^
 ||analytics.126.com^
 ||ir.mail.126.com^
 ||ads.music.126.net^
@@ -560,6 +561,7 @@
 ||51.la^
 ||511a.cn^
 ||51240.com^
+||5166.info^
 ||amradmin.5173.com^
 ||518ad.com^
 ||log.51changdu.com^
@@ -571,6 +573,7 @@
 ||51mitu.com^
 ||a1.51shiti.cn^
 ||51taifu.com^
+||ad.51wnl-cq.com^
 ||r.51wnl-cq.com^
 ||ad.51wnl.com^
 ||51xuex.com.cn^
@@ -724,6 +727,7 @@
 ||6bgubwkwoh.com^
 ||6c34boi06m.com^
 ||6cmxoje5k.com^
+||6cq8d7xyk.com^
 ||6ejvq6ykg2.com^
 ||6ez760nwf0.com^
 ||6fm4dcpj31.com^
@@ -738,6 +742,7 @@
 ||6j7ywcn8sx.com^
 ||6jei0t6xp.com^
 ||6jtqdplfz7.com^
+||6k1alauto.com^
 ||6k2fehacp.com^
 ||6knlhnjfv.com^
 ||6kpudsordv.com^
@@ -815,6 +820,7 @@
 ||7gp33kffg6.com^
 ||7ho8oc3svg.com^
 ||7imz0d5nay.com^
+||7istqn6fh.com^
 ||7iwxojx1s.com^
 ||7jf3kxi6bq.com^
 ||7jqi6um1g.com^
@@ -1112,6 +1118,7 @@
 ||logservice.agora.io^
 ||logservice-rtm.agora.io^
 ||report-america.agora.io^
+||report-america2.agora.io^
 ||report-asia.agora.io^
 ||report-edge.agora.io^
 ||report-europe.agora.io^
@@ -1514,7 +1521,6 @@
 ||push.zhanzhang.baidu.com^
 ||qapm.baidu.com^
 ||qianclick.baidu.com^
-||r6.mo.baidu.com^
 ||release.baidu.com^
 ||res.mi.baidu.com^
 ||river.zhidao.baidu.com^
@@ -1574,6 +1580,7 @@
 ||bartender.cc^
 ||bastion1.top^
 ||baycode.cn^
+||raddus.bayescom.com^
 ||bb2k0pq1vf.com^
 ||bbbazlp.cn^
 ||bbcoe.cn^
@@ -1819,6 +1826,7 @@
 ||adv.ccb.com^
 ||ad.ccement.com^
 ||ccpvq7fgy.com^
+||btrace.ysp.cctv.cn^
 ||mtrace.ysp.cctv.cn^
 ||ad.cctv.com^
 ||httpdns.cctv.com^
@@ -1993,6 +2001,8 @@
 ||log-eap-sg.coloros.com^
 ||moa-upload-online.coloros.com^
 ||smartcard.apps.coloros.com^
+||smartcardf-eu.apps.coloros.com^
+||smartcardf.apps.coloros.com^
 ||iadsdk.apple.com.akadns.net^
 ||com052bin.com^
 ||trk.compair.com.cn^
@@ -2245,7 +2255,6 @@
 ||dfi09241kq.com^
 ||dfi09250kq.com^
 ||dgnqrl.icu^
-||dgrj.com.cn^
 ||dgrpeldt54.com^
 ||d.dgzj.com^
 ||dh5t3pyb6r.com^
@@ -2435,6 +2444,7 @@
 ||emdcadvertise.eastmoney.com^
 ||huaxiang.eastmoney.com^
 ||same.eastmoney.com^
+||easyrecoverychina.com^
 ||easytomessage.com^
 ||ebgock7kz.com^
 ||eblnzoq.cn^
@@ -2849,6 +2859,12 @@
 ||ggo10111lq.com^
 ||ggo10120lq.com^
 ||ggo10121lq.com^
+||ggo10130lq.com^
+||ggo10131lq.com^
+||ggo10140lq.com^
+||ggo10141lq.com^
+||ggo10150lq.com^
+||ggo10151lq.com^
 ||shqdown.ggzuhao.com^
 ||ghjyw4h23.com^
 ||ghsnhjk.cn^
@@ -2881,7 +2897,6 @@
 ||sdk-cache.video.ptqy.gitv.tv^
 ||sdk.ptqy.gitv.tv^
 ||static.ptqy.gitv.tv^
-||t7z.cupid.ptqy.gitv.tv^
 ||time.video.ptqy.gitv.tv^
 ||giwl0p3gx7.com^
 ||gj8ph3gw8z.com^
@@ -3088,6 +3103,7 @@
 ||cdn.haocaa.com^
 ||2.haoxue360.com^
 ||download.haozip.com^
+||log.dc.cn.happyelements.com^
 ||hapying.com^
 ||hashnest.com^
 ||haveon.shop^
@@ -3255,6 +3271,7 @@
 ||api-gps.hismarttv.com^
 ||api-gps-em.hismarttv.com^
 ||api-gps-eu.hismarttv.com^
+||api-gps-na.hismarttv.com^
 ||api-launcher-eu.hismarttv.com^
 ||api-launcher-na.hismarttv.com^
 ||api.eu.hismarttv.com^
@@ -3281,6 +3298,7 @@
 ||resu8.hjfile.cn^
 ||hjlra23r7r.com^
 ||hjpqt.cn^
+||logs.hkhphr.com^
 ||hkkeafj.cn^
 ||hkplzozwl.com^
 ||metrics.hktdc.com^
@@ -3414,6 +3432,7 @@
 ||u8.hujiang.com^
 ||log.hunantv.com^
 ||log.v2.hunantv.com^
+||hungfei.com^
 ||huoche.com.cn^
 ||huoying666.com^
 ||collect.hupu.com^
@@ -3535,6 +3554,7 @@
 ||ihbkqdj55.com^
 ||ihclam.cn^
 ||ihhuyvugv.com^
+||appadapi.ihuman.com^
 ||umami.ihuyi.com^
 ||iimedia.cn^
 ||ijinshan.com^
@@ -4234,6 +4254,7 @@
 ||liebaovip.com^
 ||likeshop.top^
 ||lindabella.shop^
+||lingd.cn^
 ||ads.linkedin.cn^
 ||linkhaitao.com^
 ||listlessly1.top^
@@ -4460,6 +4481,7 @@
 ||pandora.mi.com^
 ||stat.youpin.mi.com^
 ||tk.d.mi.com^
+||video.kts.g.mi.com^
 ||mi1804pen.com^
 ||mi1pbnrk8d.com^
 ||miam4.cn^
@@ -4533,6 +4555,7 @@
 ||feedback.miui.com^
 ||flash.sec.miui.com^
 ||flash.sec.intl.miui.com^
+||gamebox.sec.miui.com^
 ||geofence.sys.miui.com^
 ||gtglobal.intl.miui.com^
 ||httpdns.browser.miui.com^
@@ -4568,6 +4591,7 @@
 ||mly5hvbae.com^
 ||da.mmarket.com^
 ||mmes30jla.com^
+||mmftdt.com^
 ||mmkkiivv.com^
 ||track.mmsvc.io^
 ||tc.mnbvcxzq.com^
@@ -4641,6 +4665,7 @@
 ||mx278ol2d.com^
 ||mxauvrtdm.com^
 ||mxevdii.cn^
+||my-hr.cn^
 ||my1746vnm.com^
 ||apiyd.my91app.com^
 ||mya2pg8cdg.com^
@@ -4707,6 +4732,7 @@
 ||nahg4lhbr.com^
 ||nalook.com^
 ||fp.nanrenwo.net^
+||nar17stuqf.com^
 ||nasimobi.com^
 ||dl.natgo.cn^
 ||tr.email.nauticexpo.com^
@@ -5031,6 +5057,7 @@
 ||bd1.pipaw.com^
 ||pitbulllpl.shop^
 ||pitbullspl.shop^
+||stat2.pixpin.cn^
 ||experiment.pixverse.ai^
 ||report.pixverse.ai^
 ||pj4til72yp.com^
@@ -5066,7 +5093,6 @@
 ||poqwua.cn^
 ||fp-it-acc.portal101.cn^
 ||webtrack.pospal.cn^
-||postut.cn^
 ||pow46ru6c.com^
 ||log.cs.pp.cn^
 ||patriot.cs.pp.cn^
@@ -5144,6 +5170,7 @@
 ||q6zikgclq9.com^
 ||q7vnwa1ma7.com^
 ||q8pmxabng9.com^
+||q9cu7eok92.com^
 ||q9ss0yqwa.com^
 ||qa2bdtwm7h.com^
 ||qab0m5irus.com^
@@ -5395,6 +5422,7 @@
 ||vlive.qqvideo.tc.qq.com^
 ||vpic.video.qq.com^
 ||w.inews.qq.com^
+||wetelemetry.weixin.qq.com^
 ||ws.sj.qq.com^
 ||wup.imtt.qq.com^
 ||wxa.wxs.qq.com^
@@ -5663,6 +5691,7 @@
 ||smetrics.samsung.com.cn^
 ||analytics-api.samsunghealthcn.com^
 ||biz5.sandai.net^
+||dlresctrl.phub.sandai.net^
 ||etl-xlmc-ssl.sandai.net^
 ||etl.xlmc.sandai.net^
 ||hub5btmain.sandai.net^
@@ -5735,6 +5764,7 @@
 ||ads-monitoring.shziyi.com^
 ||sigmob.com^
 ||smetrics.marketing.signify.com.cn^
+||siguatv.cn^
 ||ad.cj.sina.cn^
 ||adblock.sina.cn^
 ||adimg.mobile.sina.cn^
@@ -5784,7 +5814,6 @@
 ||saxn.sina.com.cn^
 ||sbeacon.sina.com.cn^
 ||slog.sina.com.cn^
-||woocall.sina.com.cn^
 ||s3.pfp.sina.net^
 ||ad.us.sinaimg.cn^
 ||newspush.sinajs.cn^
@@ -5921,6 +5950,7 @@
 ||smetrics.solidigmtech.com.cn^
 ||smetrics.solidigmtechnology.cn^
 ||rtb-uswest-ak.solomath.com^
+||songlaoban.cn^
 ||gg.sonhoo.com^
 ||sc.sonystyle.com.cn^
 ||soob00avn4.com^
@@ -6030,6 +6060,7 @@
 ||t7fv5mjt8i.com^
 ||t7h2otlhd.com^
 ||t7ywa5ai3.com^
+||t8yctltd8s.com^
 ||t9x2gu6it3.com^
 ||ta7088hrd.com^
 ||ta7tfk0o2h.com^
@@ -6218,7 +6249,6 @@
 ||thj36m3dm.com^
 ||trk.thomas-pump.cn^
 ||trail.thomsonreuters.cn^
-||ad.thsi.cn^
 ||thuk8hg48.com^
 ||tracking.mail.ti.com.cn^
 ||ti1nmd09a.com^
@@ -6842,6 +6872,7 @@
 ||mini-prog-drm.vodplayvideo.net^
 ||vogue99.top^
 ||voiceads.cn^
+||dev.voicecloud.cn^
 ||log.voicecloud.cn^
 ||apm.volccdn.com^
 ||httpdns.volcengineapi.com^
@@ -6888,6 +6919,7 @@
 ||vzayis1qa.com^
 ||vzrhwmsj.icu^
 ||w0zk4pw7an.com^
+||w19lu17a2.com^
 ||w1irjtvdt4.com^
 ||w2j4kdjma.com^
 ||w2q5p09n8.com^
@@ -7753,6 +7785,7 @@
 ||gecko5-lf.zijieapi.com^
 ||log.zijieapi.com^
 ||log-klink.zijieapi.com^
+||log5-applog-hl.zijieapi.com^
 ||log5-applog-lf.zijieapi.com^
 ||mcs.zijieapi.com^
 ||minigame5-normal-hl.zijieapi.com^
@@ -7777,12 +7810,9 @@
 ||polaris3-normal-lq.zijieapi.com^
 ||polaris3-normal-xh.zijieapi.com^
 ||polaris3-normal-zb.zijieapi.com^
-||polaris5-normal-gl2.zijieapi.com^
 ||polaris5-normal-hl.zijieapi.com^
 ||polaris5-normal-lf.zijieapi.com^
 ||polaris5-normal-lq.zijieapi.com^
-||polaris5-normal-xh.zijieapi.com^
-||polaris5-normal-zb.zijieapi.com^
 ||saveu5-normal-lq.zijieapi.com^
 ||starkgame.zijieapi.com^
 ||timon.zijieapi.com^
@@ -7882,6 +7912,7 @@
 ||zykwnj.cn^
 ||zyxyfy.com^
 ||zyy25t69u.com^
+||zzisnvb.cn^
 ||zzrcz.com^
 ||cfgc.zztfly.com^
 ||log-auth.zztfly.com^
