@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20261014045251
-! Last modified: 2026/10/14 04:52:51
-! Blocked Filters: 103900
+! Version: 20261014102645
+! Last modified: 2026/10/14 10:26:45
+! Blocked Filters: 103899
 !
 ###AC_ad
 ###AD_160
@@ -11771,6 +11771,7 @@
 ##.main-container div[id^="z-extra-"]
 ##.main-container ~ div.z-gate-mask
 ##.main-container ~ div[class^="z"][class$="-root"]
+##.main-content > .ad-shell
 ##.main-footer-ad
 ##.main-header-ad
 ##.main-header__ad-wrapper
@@ -14609,7 +14610,6 @@
 ##a[href*=".gaimin.gg/cn"]
 ##a[href*=".holesg.xyz"]
 ##a[href*=".hongguotuiguang."]
-##a[href*=".jmtybc.com"]
 ##a[href*=".labsda.com"] > img[src^="/game/20"]
 ##a[href*=".sadbaguette.com/"]
 ##a[href*=".ssmh"][href*="?u="]
@@ -15834,11 +15834,9 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 .cn/*/o*.js?t=*$domain=12ju.com
 .cn/2022/*/*.txt$third-party
 .cn/2023/*/*.txt$third-party
-.cn/Ao390sW2.js
 .cn/ack?s=*$third-party
 .cn/ads/
 .cn/bid?url=*$third-party
-.cn/cS389.js
 .cn/d/o*.js?t=*
 .cn/e/o*.js?t=*
 .cn/gg/$script,third-party
@@ -20240,7 +20238,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /p/tm.js?
 /p1x1.gif
 /p?zoneId=
-/pa.dajiahao*.top/
 /page-addviews?
 /page-analytics.js
 /page-events/trackclick/*
@@ -24354,7 +24351,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 :81/c/i.php?id=$script
 :81/s/i.php?id=$script
 :818/nowscore/
-:866/o.js$script,third-party
 :8686/8888/*.gif$third-party,image
 :88/999pc/
 :88/lighttpd/default/
@@ -70977,6 +70973,7 @@ qq.com###ay-tips-close + h2
 qq.com###barrageBase
 qq.com###bottom-sponsor
 qq.com###comic_ad
+qq.com###coo_qqBrowser
 qq.com###emailLogin > .hd-slider
 qq.com###focus_jordon
 qq.com###fr_ad
@@ -87162,6 +87159,7 @@ zzzyk.com###Tinfo
 ||5ilog.com/qq/js/jsgg.js
 ||5imx.com/image/image/
 ||5ips.net/love/
+||5lu8.com^$popup,third-party
 ||5mno3.com^$popup
 ||5nj.com/js/cnzz22.js
 ||5nj.com/js/cnzz33.js
@@ -96555,6 +96553,7 @@ zzzyk.com###Tinfo
 ||ml.com/enterprisetagging/
 ||mlytics.com^$third-party
 ||mm387.com/images/*.gif
+||mm786.com^$popup,third-party
 ||mma-core.com/vidjs*.js
 ||mmarocks.pl/sbt/720x180.png
 ||mmcdn.com/events/
